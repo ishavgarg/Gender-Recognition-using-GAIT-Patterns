@@ -1,0 +1,115 @@
+
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 17:17:02.653780
+Exception: FileNotFoundError
+Exception message: No such file: 'F:\Sixth Semester\Capstone\GaitDatasetB-silh\001\bg-01\001-bg-01-004.png'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 17:20:12.442845
+Exception: FileNotFoundError
+Exception message: No such file: 'F:\Sixth Semester\Capstone\GaitDatasetB-silh\001\bg-01\001-bg-01-090-004.png'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 17:34:06.981865
+Exception: TypeError
+Exception message: unsupported operand type(s) for +: 'int' and 'str'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 18:04:17.710011
+Exception: TypeError
+Exception message: listdir: path should be string, bytes, os.PathLike or None, not list
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 18:44:31.420271
+Exception: KeyError
+Exception message: '001/bg-01'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 18:45:04.784549
+Exception: KeyError
+Exception message: '001/bg-01'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 18:47:44.639550
+Exception: FileNotFoundError
+Exception message: No such file: 'F:\Sixth Semester\Capstone\GaitDatasetB-silh\020\nm-06\090\008-bg-01-090-061.png'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 18:48:52.590943
+Exception: FileNotFoundError
+Exception message: No such file: 'F:\Sixth Semester\Capstone\GaitDatasetB-silh\020\nm-06\090\007-bg-01-090-064.png'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-14 19:17:57.522457
+Exception: ZeroDivisionError
+Exception message: division by zero
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 14:24:38.973203
+Exception: KeyError
+Exception message: '030/nm-05'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 15:01:22.094719
+Exception: ZeroDivisionError
+Exception message: division by zero
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 15:26:40.652275
+Exception: ZeroDivisionError
+Exception message: division by zero
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 15:40:08.869319
+Exception: KeyError
+Exception message: '007/bg-01'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 15:41:20.645547
+Exception: TypeError
+Exception message: 'DataFrame' object is not callable
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 16:57:52.864992
+Exception: FileNotFoundError
+Exception message: No such file: 'F:\Sixth Semester\Capstone\GaitDatasetB-silh\107\nm-04\090\107-nm-04-090-050.png'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 17:03:11.651115
+Exception: FileNotFoundError
+Exception message: No such file: 'F:\Sixth Semester\Capstone\GaitDatasetB-silh\107\nm-04\090\107-nm-04-090-050.png'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 18:21:27.578661
+Exception: KeyError
+Exception message: '001/bg-01'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 18:22:08.862552
+Exception: KeyError
+Exception message: '001/bg-01'
+
+----------------------------------------------------
+
+Time-stamp: 2022-06-15 18:49:19.309933
+Exception: IndexError
+Exception message: list index out of range

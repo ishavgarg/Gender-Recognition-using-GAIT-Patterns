@@ -1,0 +1,1503 @@
+
+
+----------------------------------------------------
+
+0.) Current Row id: fyc-00_1
+
+Smoothen Widths length: 75
+Smoothen Widths: [64.97, 64.97, 64.97, 64.97, 65.89, 66.44, 66.33, 65.42, 63.2, 60.22, 57.11, 54.58, 53.25, 53.39, 54.72, 56.92, 59.61, 61.86, 63.14, 63.08, 61.69, 59.19, 55.83, 52.78, 50.64, 49.89, 50.86, 53.47, 57.42, 61.58, 65.14, 67.53, 68.17, 66.8, 63.72, 59.55, 55.28, 51.7, 49.67, 49.75, 51.78, 55.59, 60.22, 64.64, 67.89, 69.25, 68.59, 65.78, 61.42, 56.53, 52.08, 49.03, 47.83, 48.69, 51.39, 55.16, 58.94, 61.75, 63.03, 62.61, 60.58, 57.39, 54.14, 51.81, 51.05, 52.11, 54.86, 59.03, 63.61, 67.53, 69.97, 71.13, 70.99, 70.72, 69.73]
+
+Before removing duplicates, Local Maxima: [66.44, 63.14, 68.17, 69.25, 63.03, 71.13]
+Before removing duplicates, Local Maxima Args: [6, 19, 33, 46, 59, 72]
+After removing duplicates, Local Maxima: [66.44, 63.14, 68.17, 69.25, 63.03, 71.13]
+After removing duplicates, Local Maxima Args: [6, 19, 33, 46, 59, 72]
+Mean of maxima: 66.86
+After removing outliers, Local Maxima: [66.44, 63.14, 68.17, 69.25, 63.03, 71.13]
+After removing outliers, Local Maxima Args: [6, 19, 33, 46, 59, 72]
+
+First local maxima = 66.44, Frame no. = fyc-00_1-006.png
+Third local maxima = 68.17, Frame no. = fyc-00_1-033.png
+Total frames in the Gait Video: 75
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+1.) Current Row id: fyc-00_2
+
+Smoothen Widths length: 73
+Smoothen Widths: [44.92, 44.92, 44.92, 44.92, 46.53, 49.2, 52.92, 57.58, 62.53, 66.92, 69.97, 71.14, 70.2, 67.25, 62.95, 58.22, 54.08, 51.45, 50.8, 52.14, 55.22, 59.3, 63.22, 66.0, 67.05, 66.2, 63.53, 59.61, 55.53, 52.28, 50.47, 50.69, 52.91, 56.75, 61.25, 65.33, 68.36, 69.55, 68.67, 65.72, 61.47, 56.97, 53.14, 50.89, 50.67, 52.7, 56.39, 60.83, 64.86, 67.53, 68.3, 66.8, 63.53, 59.11, 54.58, 50.83, 48.58, 48.42, 50.03, 52.91, 56.36, 59.44, 61.44, 61.86, 60.58, 57.95, 54.47, 51.16, 48.69, 46.97, 46.53, 46.33, 46.83]
+
+Before removing duplicates, Local Maxima: [71.14, 67.05, 69.55, 68.3, 61.86, 46.83]
+Before removing duplicates, Local Maxima Args: [12, 25, 38, 51, 64, 73]
+After removing duplicates, Local Maxima: [71.14, 67.05, 69.55, 68.3, 61.86, 46.83]
+After removing duplicates, Local Maxima Args: [12, 25, 38, 51, 64, 73]
+Mean of maxima: 64.12166666666667
+After removing outliers, Local Maxima: [71.14, 67.05, 69.55, 68.3, 61.86]
+After removing outliers, Local Maxima Args: [12, 25, 38, 51, 64]
+
+First local maxima = 71.14, Frame no. = fyc-00_2-012.png
+Third local maxima = 69.55, Frame no. = fyc-00_2-038.png
+Total frames in the Gait Video: 73
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+2.) Current Row id: fyc-00_3
+
+Smoothen Widths length: 69
+Smoothen Widths: [45.41, 45.41, 45.41, 45.41, 47.53, 50.55, 54.36, 58.67, 62.64, 65.42, 66.56, 65.78, 63.3, 59.61, 55.61, 52.22, 50.19, 50.14, 51.89, 55.08, 58.75, 61.92, 63.75, 63.75, 62.0, 58.8, 55.19, 52.22, 50.78, 51.05, 53.11, 56.64, 60.64, 64.06, 65.95, 66.08, 64.44, 61.36, 57.78, 54.58, 52.69, 52.64, 54.33, 57.53, 61.19, 64.58, 66.83, 67.28, 65.83, 62.66, 58.72, 54.86, 51.94, 50.67, 51.33, 53.72, 57.25, 60.86, 63.64, 64.92, 64.42, 62.42, 59.2, 55.86, 53.45, 51.97, 51.75, 51.57, 52.21]
+
+Before removing duplicates, Local Maxima: [66.56, 63.75, 63.75, 66.08, 67.28, 64.92, 52.21]
+Before removing duplicates, Local Maxima Args: [11, 23, 24, 36, 48, 60, 69]
+After removing duplicates, Local Maxima: [66.56, 63.75, 66.08, 67.28, 64.92, 52.21]
+After removing duplicates, Local Maxima Args: [11, 24, 36, 48, 60, 69]
+Mean of maxima: 63.46666666666666
+After removing outliers, Local Maxima: [66.56, 63.75, 66.08, 67.28, 64.92]
+After removing outliers, Local Maxima Args: [11, 24, 36, 48, 60]
+
+First local maxima = 66.56, Frame no. = fyc-00_3-011.png
+Third local maxima = 66.08, Frame no. = fyc-00_3-036.png
+Total frames in the Gait Video: 69
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+3.) Current Row id: fyc-00_4
+
+Smoothen Widths length: 75
+Smoothen Widths: [69.36, 69.36, 69.36, 69.36, 67.25, 64.08, 60.14, 56.06, 52.7, 50.86, 51.05, 53.36, 57.25, 61.58, 65.39, 67.86, 68.44, 66.94, 63.69, 59.44, 55.25, 52.03, 50.5, 51.06, 53.59, 57.67, 62.09, 65.78, 67.89, 67.94, 65.8, 61.8, 57.25, 53.22, 50.69, 50.19, 52.03, 55.83, 60.53, 64.97, 68.14, 69.39, 68.33, 65.25, 60.75, 56.0, 52.0, 49.53, 49.17, 50.8, 54.0, 57.67, 60.86, 62.86, 63.11, 61.47, 58.36, 54.61, 51.17, 48.78, 47.89, 48.89, 51.53, 55.28, 59.2, 62.36, 64.31, 64.64, 63.34, 60.5, 56.81, 53.0, 49.38, 47.33, 45.41]
+
+Before removing duplicates, Local Maxima: [69.36, 68.44, 67.94, 69.39, 63.11, 64.64]
+Before removing duplicates, Local Maxima Args: [4, 17, 30, 42, 55, 68]
+After removing duplicates, Local Maxima: [69.36, 68.44, 67.94, 69.39, 63.11, 64.64]
+After removing duplicates, Local Maxima Args: [4, 17, 30, 42, 55, 68]
+Mean of maxima: 67.14666666666666
+After removing outliers, Local Maxima: [69.36, 68.44, 67.94, 69.39, 63.11, 64.64]
+After removing outliers, Local Maxima Args: [4, 17, 30, 42, 55, 68]
+
+First local maxima = 69.36, Frame no. = fyc-00_4-004.png
+Third local maxima = 67.94, Frame no. = fyc-00_4-030.png
+Total frames in the Gait Video: 75
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+4.) Current Row id: hy-00_1
+
+Smoothen Widths length: 59
+Smoothen Widths: [73.75, 73.75, 73.75, 73.75, 72.0, 69.22, 65.42, 61.03, 56.78, 53.81, 52.61, 53.64, 56.78, 61.31, 66.17, 70.14, 72.41, 72.39, 70.14, 66.14, 61.5, 57.45, 55.03, 54.95, 57.25, 61.5, 66.64, 71.25, 74.17, 74.72, 72.75, 68.77, 63.72, 59.14, 56.22, 55.58, 57.41, 61.28, 66.25, 70.89, 73.95, 74.64, 72.89, 69.05, 64.05, 59.22, 55.78, 54.67, 56.03, 59.47, 64.17, 68.81, 72.28, 73.67, 72.67, 70.04, 66.0, 63.6, 60.79]
+
+Before removing duplicates, Local Maxima: [73.75, 72.41, 74.72, 74.64, 73.67]
+Before removing duplicates, Local Maxima Args: [4, 17, 30, 42, 54]
+After removing duplicates, Local Maxima: [73.75, 72.41, 74.72, 74.64, 73.67]
+After removing duplicates, Local Maxima Args: [4, 17, 30, 42, 54]
+Mean of maxima: 73.838
+After removing outliers, Local Maxima: [73.75, 72.41, 74.72, 74.64, 73.67]
+After removing outliers, Local Maxima Args: [4, 17, 30, 42, 54]
+
+First local maxima = 73.75, Frame no. = hy-00_1-004.png
+Third local maxima = 74.72, Frame no. = hy-00_1-030.png
+Total frames in the Gait Video: 59
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+5.) Current Row id: hy-00_2
+
+Smoothen Widths length: 67
+Smoothen Widths: [54.72, 54.72, 54.72, 54.72, 58.05, 62.16, 66.61, 70.83, 73.3, 73.58, 71.7, 68.03, 63.28, 58.67, 55.17, 53.72, 54.55, 57.5, 62.14, 67.25, 71.78, 74.64, 75.34, 73.72, 70.06, 65.2, 60.28, 56.47, 54.66, 55.28, 58.17, 62.8, 67.97, 72.42, 75.11, 75.53, 73.53, 69.47, 64.39, 59.45, 55.81, 54.17, 54.92, 57.8, 62.0, 66.56, 70.14, 72.0, 71.69, 69.34, 65.53, 61.05, 57.3, 55.0, 54.75, 56.58, 60.06, 64.36, 68.17, 70.78, 71.56, 70.28, 67.22, 63.21, 58.88, 56.39, 53.86]
+
+Before removing duplicates, Local Maxima: [73.58, 75.34, 75.53, 72.0, 71.56]
+Before removing duplicates, Local Maxima Args: [10, 23, 36, 48, 61]
+After removing duplicates, Local Maxima: [73.58, 75.34, 75.53, 72.0, 71.56]
+After removing duplicates, Local Maxima Args: [10, 23, 36, 48, 61]
+Mean of maxima: 73.602
+After removing outliers, Local Maxima: [73.58, 75.34, 75.53, 72.0, 71.56]
+After removing outliers, Local Maxima Args: [10, 23, 36, 48, 61]
+
+First local maxima = 73.58, Frame no. = hy-00_2-010.png
+Third local maxima = 75.53, Frame no. = hy-00_2-036.png
+Total frames in the Gait Video: 67
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+6.) Current Row id: hy-00_3
+
+Smoothen Widths length: 60
+Smoothen Widths: [48.22, 48.22, 48.22, 48.22, 49.58, 52.0, 55.47, 59.95, 65.03, 69.64, 72.92, 74.36, 73.58, 70.7, 66.31, 61.42, 57.14, 54.39, 53.86, 55.47, 59.08, 63.78, 68.19, 71.25, 72.3, 71.3, 68.17, 63.67, 59.22, 55.95, 54.58, 55.42, 58.42, 63.0, 67.89, 71.92, 74.2, 74.2, 71.95, 67.86, 62.86, 58.17, 55.0, 54.09, 55.56, 59.14, 64.17, 69.42, 73.47, 75.5, 75.08, 72.39, 67.95, 62.78, 58.17, 55.0, 53.51, 53.83, 54.06, 55.16]
+
+Before removing duplicates, Local Maxima: [74.36, 72.3, 74.2, 74.2, 75.5, 55.16]
+Before removing duplicates, Local Maxima Args: [12, 25, 37, 38, 50, 60]
+After removing duplicates, Local Maxima: [74.36, 72.3, 74.2, 75.5, 55.16]
+After removing duplicates, Local Maxima Args: [12, 25, 38, 50, 60]
+Mean of maxima: 70.304
+After removing outliers, Local Maxima: [74.36, 72.3, 74.2, 75.5]
+After removing outliers, Local Maxima Args: [12, 25, 38, 50]
+
+First local maxima = 74.36, Frame no. = hy-00_3-012.png
+Third local maxima = 74.2, Frame no. = hy-00_3-038.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+7.) Current Row id: hy-00_4
+
+Smoothen Widths length: 63
+Smoothen Widths: [59.72, 59.72, 59.72, 59.72, 62.55, 65.39, 67.75, 69.33, 68.72, 66.11, 62.25, 58.42, 55.72, 54.75, 55.94, 59.16, 63.94, 69.0, 73.06, 75.44, 75.58, 73.39, 69.17, 64.03, 59.33, 56.0, 54.92, 56.33, 60.03, 64.97, 69.81, 73.45, 74.95, 73.97, 70.56, 65.61, 60.36, 56.05, 53.64, 53.58, 56.0, 60.28, 65.36, 69.97, 73.14, 74.28, 73.14, 70.0, 65.53, 60.95, 57.3, 55.42, 55.7, 58.03, 62.05, 66.61, 70.53, 73.03, 73.64, 72.83, 70.65, 69.21, 67.43]
+
+Before removing duplicates, Local Maxima: [69.33, 75.58, 74.95, 74.28, 73.64]
+Before removing duplicates, Local Maxima Args: [8, 21, 33, 46, 59]
+After removing duplicates, Local Maxima: [69.33, 75.58, 74.95, 74.28, 73.64]
+After removing duplicates, Local Maxima Args: [8, 21, 33, 46, 59]
+Mean of maxima: 73.556
+After removing outliers, Local Maxima: [69.33, 75.58, 74.95, 74.28, 73.64]
+After removing outliers, Local Maxima Args: [8, 21, 33, 46, 59]
+
+First local maxima = 69.33, Frame no. = hy-00_4-008.png
+Third local maxima = 74.95, Frame no. = hy-00_4-033.png
+Total frames in the Gait Video: 63
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+8.) Current Row id: ljg-00_1
+
+Smoothen Widths length: 64
+Smoothen Widths: [54.22, 54.22, 54.22, 54.22, 53.72, 54.08, 55.55, 58.11, 62.36, 67.47, 72.61, 76.72, 79.22, 79.86, 78.3, 74.97, 70.44, 65.55, 61.05, 57.86, 56.89, 58.25, 61.67, 66.67, 72.53, 78.0, 82.06, 84.08, 83.78, 81.03, 76.22, 70.28, 64.22, 59.17, 56.05, 55.55, 57.67, 62.03, 67.75, 73.61, 78.5, 81.64, 82.59, 81.09, 77.39, 72.28, 67.47, 63.55, 61.16, 61.16, 63.83, 68.91, 74.19, 79.3, 83.75, 86.44, 86.81, 84.56, 80.81, 75.72, 70.01, 64.23, 60.97, 57.97]
+
+Before removing duplicates, Local Maxima: [54.22, 79.86, 84.08, 82.59, 86.81]
+Before removing duplicates, Local Maxima Args: [4, 14, 28, 43, 57]
+After removing duplicates, Local Maxima: [54.22, 79.86, 84.08, 82.59, 86.81]
+After removing duplicates, Local Maxima Args: [4, 14, 28, 43, 57]
+Mean of maxima: 77.512
+After removing outliers, Local Maxima: [79.86, 84.08, 82.59, 86.81]
+After removing outliers, Local Maxima Args: [14, 28, 43, 57]
+
+First local maxima = 79.86, Frame no. = ljg-00_1-014.png
+Third local maxima = 82.59, Frame no. = ljg-00_1-043.png
+Total frames in the Gait Video: 64
+Total frames in one Gait Cycle: 30
+
+----------------------------------------------------
+
+9.) Current Row id: ljg-00_2
+
+Smoothen Widths length: 68
+Smoothen Widths: [80.97, 80.97, 80.97, 80.97, 80.22, 78.55, 75.78, 71.94, 67.11, 62.28, 58.42, 56.36, 56.64, 59.17, 63.58, 69.2, 74.92, 79.58, 82.45, 83.17, 81.61, 77.83, 72.5, 66.78, 61.66, 58.19, 57.03, 58.58, 62.61, 68.17, 74.14, 79.28, 82.67, 83.75, 82.36, 78.78, 73.7, 68.11, 63.05, 59.36, 57.72, 58.47, 61.44, 66.0, 71.25, 76.17, 79.8, 81.55, 81.19, 78.72, 74.5, 69.33, 64.19, 59.97, 57.36, 57.03, 59.0, 62.92, 67.89, 73.05, 77.5, 80.41, 81.53, 80.78, 78.92, 76.14, 74.51, 72.67]
+
+Before removing duplicates, Local Maxima: [80.97, 83.17, 83.75, 81.55, 81.53]
+Before removing duplicates, Local Maxima Args: [4, 20, 34, 48, 63]
+After removing duplicates, Local Maxima: [80.97, 83.17, 83.75, 81.55, 81.53]
+After removing duplicates, Local Maxima Args: [4, 20, 34, 48, 63]
+Mean of maxima: 82.194
+After removing outliers, Local Maxima: [80.97, 83.17, 83.75, 81.55, 81.53]
+After removing outliers, Local Maxima Args: [4, 20, 34, 48, 63]
+
+First local maxima = 80.97, Frame no. = ljg-00_2-004.png
+Third local maxima = 83.75, Frame no. = ljg-00_2-034.png
+Total frames in the Gait Video: 68
+Total frames in one Gait Cycle: 31
+
+----------------------------------------------------
+
+10.) Current Row id: ljg-00_3
+
+Smoothen Widths length: 69
+Smoothen Widths: [70.28, 70.28, 70.28, 70.28, 71.42, 72.25, 72.45, 71.67, 69.3, 65.75, 61.78, 58.16, 55.75, 55.33, 56.91, 60.25, 64.86, 69.97, 74.64, 77.95, 79.5, 79.11, 76.81, 73.11, 68.8, 64.64, 61.41, 60.0, 60.61, 63.0, 66.78, 71.47, 76.17, 79.7, 81.58, 81.53, 79.36, 75.33, 70.17, 64.94, 60.55, 58.0, 57.75, 59.78, 63.8, 69.0, 74.25, 78.33, 80.64, 80.8, 78.55, 74.3, 68.97, 63.61, 59.28, 56.83, 56.94, 59.58, 64.19, 70.05, 75.86, 80.5, 83.11, 83.34, 81.28, 77.66, 73.01, 70.31, 67.39]
+
+Before removing duplicates, Local Maxima: [72.45, 79.5, 81.58, 80.8, 83.34]
+Before removing duplicates, Local Maxima Args: [7, 21, 35, 50, 64]
+After removing duplicates, Local Maxima: [72.45, 79.5, 81.58, 80.8, 83.34]
+After removing duplicates, Local Maxima Args: [7, 21, 35, 50, 64]
+Mean of maxima: 79.53399999999999
+After removing outliers, Local Maxima: [72.45, 79.5, 81.58, 80.8, 83.34]
+After removing outliers, Local Maxima Args: [7, 21, 35, 50, 64]
+
+First local maxima = 72.45, Frame no. = ljg-00_3-007.png
+Third local maxima = 81.58, Frame no. = ljg-00_3-035.png
+Total frames in the Gait Video: 69
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+11.) Current Row id: ljg-00_4
+
+Smoothen Widths length: 66
+Smoothen Widths: [78.25, 78.25, 78.25, 78.25, 77.0, 74.72, 71.39, 67.28, 62.81, 59.09, 57.03, 57.22, 59.72, 64.2, 69.89, 75.64, 80.22, 82.83, 83.08, 80.78, 76.22, 70.36, 64.61, 60.0, 57.5, 57.61, 60.45, 65.33, 70.89, 75.97, 79.45, 80.67, 79.45, 75.95, 71.2, 66.25, 62.11, 59.72, 59.42, 61.53, 65.42, 70.25, 75.2, 79.14, 81.39, 81.42, 79.25, 75.22, 69.95, 64.56, 60.11, 57.45, 57.0, 58.81, 62.53, 67.22, 71.78, 75.2, 76.89, 76.86, 75.08, 71.97, 68.3, 64.65, 62.68, 60.72]
+
+Before removing duplicates, Local Maxima: [78.25, 83.08, 80.67, 81.42, 76.89]
+Before removing duplicates, Local Maxima Args: [4, 19, 32, 46, 59]
+After removing duplicates, Local Maxima: [78.25, 83.08, 80.67, 81.42, 76.89]
+After removing duplicates, Local Maxima Args: [4, 19, 32, 46, 59]
+Mean of maxima: 80.062
+After removing outliers, Local Maxima: [78.25, 83.08, 80.67, 81.42, 76.89]
+After removing outliers, Local Maxima Args: [4, 19, 32, 46, 59]
+
+First local maxima = 78.25, Frame no. = ljg-00_4-004.png
+Third local maxima = 80.67, Frame no. = ljg-00_4-032.png
+Total frames in the Gait Video: 66
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+12.) Current Row id: lqf-00_1
+
+Smoothen Widths length: 55
+Smoothen Widths: [55.05, 55.05, 55.05, 55.05, 55.8, 57.72, 60.89, 65.05, 70.11, 74.72, 77.81, 78.67, 77.03, 73.28, 68.28, 63.47, 60.0, 58.75, 60.17, 64.06, 69.64, 75.56, 80.56, 83.61, 84.0, 81.61, 77.03, 71.42, 66.22, 62.61, 61.53, 63.36, 67.86, 73.97, 80.08, 84.89, 87.5, 87.28, 84.03, 78.45, 71.89, 65.75, 61.11, 58.91, 59.77, 63.47, 69.22, 75.55, 81.14, 84.91, 86.08, 85.25, 82.32, 80.52, 78.06]
+
+Before removing duplicates, Local Maxima: [78.67, 84.0, 87.5, 86.08]
+Before removing duplicates, Local Maxima Args: [12, 25, 37, 51]
+After removing duplicates, Local Maxima: [78.67, 84.0, 87.5, 86.08]
+After removing duplicates, Local Maxima Args: [12, 25, 37, 51]
+Mean of maxima: 84.0625
+After removing outliers, Local Maxima: [78.67, 84.0, 87.5, 86.08]
+After removing outliers, Local Maxima Args: [12, 25, 37, 51]
+
+First local maxima = 78.67, Frame no. = lqf-00_1-012.png
+Third local maxima = 87.5, Frame no. = lqf-00_1-037.png
+Total frames in the Gait Video: 55
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+13.) Current Row id: lqf-00_2
+
+Smoothen Widths length: 61
+Smoothen Widths: [65.86, 65.86, 65.86, 65.86, 69.8, 74.53, 79.47, 84.06, 86.56, 86.47, 83.75, 79.14, 73.58, 68.23, 64.08, 62.09, 62.81, 65.72, 70.2, 75.3, 79.86, 82.83, 83.47, 81.78, 77.91, 72.64, 67.06, 62.36, 59.61, 59.36, 61.89, 66.5, 72.19, 77.77, 82.0, 84.14, 83.53, 80.39, 75.5, 69.89, 64.81, 61.22, 60.14, 61.72, 65.53, 70.53, 75.61, 79.64, 81.7, 81.5, 79.0, 74.75, 69.61, 64.64, 60.69, 58.33, 58.06, 59.54, 62.37, 64.04, 66.17]
+
+Before removing duplicates, Local Maxima: [86.56, 83.47, 84.14, 81.7, 66.17]
+Before removing duplicates, Local Maxima Args: [9, 23, 36, 49, 61]
+After removing duplicates, Local Maxima: [86.56, 83.47, 84.14, 81.7, 66.17]
+After removing duplicates, Local Maxima Args: [9, 23, 36, 49, 61]
+Mean of maxima: 80.408
+After removing outliers, Local Maxima: [86.56, 83.47, 84.14, 81.7]
+After removing outliers, Local Maxima Args: [9, 23, 36, 49]
+
+First local maxima = 86.56, Frame no. = lqf-00_2-009.png
+Third local maxima = 84.14, Frame no. = lqf-00_2-036.png
+Total frames in the Gait Video: 61
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+14.) Current Row id: lqf-00_3
+
+Smoothen Widths length: 76
+Smoothen Widths: [60.92, 60.92, 60.92, 60.92, 58.81, 56.89, 55.7, 55.2, 56.78, 60.0, 64.45, 69.22, 73.47, 77.22, 79.7, 80.86, 80.39, 78.36, 75.17, 70.8, 65.94, 61.11, 57.22, 55.11, 55.0, 56.89, 60.47, 65.42, 70.83, 75.67, 79.28, 81.42, 82.06, 80.92, 78.08, 74.03, 69.31, 64.56, 59.83, 56.17, 54.47, 55.08, 57.78, 62.05, 67.91, 74.14, 79.55, 83.42, 85.44, 85.44, 83.41, 79.67, 74.58, 68.97, 63.64, 59.47, 56.41, 55.3, 56.64, 59.94, 64.47, 69.3, 74.55, 79.05, 81.97, 83.03, 82.25, 79.97, 76.14, 71.3, 66.28, 61.95, 58.56, 56.15, 54.78, 54.11]
+
+Before removing duplicates, Local Maxima: [60.92, 80.86, 82.06, 85.44, 85.44, 83.03]
+Before removing duplicates, Local Maxima Args: [4, 16, 33, 49, 50, 66]
+After removing duplicates, Local Maxima: [60.92, 80.86, 82.06, 85.44, 83.03]
+After removing duplicates, Local Maxima Args: [4, 16, 33, 50, 66]
+Mean of maxima: 78.46199999999999
+After removing outliers, Local Maxima: [80.86, 82.06, 85.44, 83.03]
+After removing outliers, Local Maxima Args: [16, 33, 50, 66]
+
+First local maxima = 80.86, Frame no. = lqf-00_3-016.png
+Third local maxima = 85.44, Frame no. = lqf-00_3-050.png
+Total frames in the Gait Video: 76
+Total frames in one Gait Cycle: 35
+
+----------------------------------------------------
+
+15.) Current Row id: lqf-00_4
+
+Smoothen Widths length: 69
+Smoothen Widths: [65.53, 65.53, 65.53, 65.53, 68.08, 70.66, 72.8, 74.22, 73.61, 71.03, 67.05, 62.78, 59.33, 57.5, 57.89, 60.72, 65.64, 71.7, 77.61, 82.25, 84.83, 84.95, 82.45, 77.7, 71.7, 65.84, 61.2, 58.59, 58.5, 61.14, 65.95, 71.64, 76.97, 80.92, 82.86, 82.36, 79.5, 74.97, 69.78, 64.89, 61.33, 59.8, 60.58, 63.36, 67.53, 72.25, 76.22, 78.67, 79.0, 77.25, 73.53, 68.56, 63.58, 59.61, 57.53, 57.7, 60.28, 64.7, 69.95, 74.92, 78.67, 80.64, 80.45, 78.2, 74.34, 69.75, 64.92, 62.17, 59.46]
+
+Before removing duplicates, Local Maxima: [74.22, 84.95, 82.86, 79.0, 80.64]
+Before removing duplicates, Local Maxima Args: [8, 22, 35, 49, 62]
+After removing duplicates, Local Maxima: [74.22, 84.95, 82.86, 79.0, 80.64]
+After removing duplicates, Local Maxima Args: [8, 22, 35, 49, 62]
+Mean of maxima: 80.334
+After removing outliers, Local Maxima: [74.22, 84.95, 82.86, 79.0, 80.64]
+After removing outliers, Local Maxima Args: [8, 22, 35, 49, 62]
+
+First local maxima = 74.22, Frame no. = lqf-00_4-008.png
+Third local maxima = 82.86, Frame no. = lqf-00_4-035.png
+Total frames in the Gait Video: 69
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+16.) Current Row id: lsl-00_1
+
+Smoothen Widths length: 60
+Smoothen Widths: [62.75, 62.75, 62.75, 62.75, 64.47, 66.7, 69.33, 72.08, 74.14, 74.83, 73.92, 71.5, 67.7, 63.14, 58.75, 55.61, 54.42, 55.36, 58.36, 63.06, 68.42, 73.47, 77.34, 79.25, 79.03, 76.58, 72.61, 67.75, 63.03, 59.58, 58.05, 58.72, 61.25, 65.28, 69.83, 73.89, 76.83, 78.0, 77.16, 74.36, 70.28, 65.86, 61.67, 58.75, 57.86, 59.33, 62.72, 67.2, 72.03, 76.31, 79.11, 79.7, 78.06, 74.5, 69.78, 64.61, 59.54, 55.38, 53.05, 51.36]
+
+Before removing duplicates, Local Maxima: [74.83, 79.25, 78.0, 79.7]
+Before removing duplicates, Local Maxima Args: [10, 24, 38, 52]
+After removing duplicates, Local Maxima: [74.83, 79.25, 78.0, 79.7]
+After removing duplicates, Local Maxima Args: [10, 24, 38, 52]
+Mean of maxima: 77.945
+After removing outliers, Local Maxima: [74.83, 79.25, 78.0, 79.7]
+After removing outliers, Local Maxima Args: [10, 24, 38, 52]
+
+First local maxima = 74.83, Frame no. = lsl-00_1-010.png
+Third local maxima = 78.0, Frame no. = lsl-00_1-038.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+17.) Current Row id: lsl-00_2
+
+Smoothen Widths length: 59
+Smoothen Widths: [67.61, 67.61, 67.61, 67.61, 70.67, 73.97, 77.19, 79.86, 80.11, 77.94, 73.94, 68.97, 63.8, 59.5, 57.19, 57.39, 59.78, 63.75, 68.39, 72.72, 75.75, 76.78, 75.7, 72.67, 68.56, 64.14, 60.47, 58.47, 58.53, 60.95, 65.06, 70.33, 75.7, 80.25, 83.31, 84.14, 82.81, 79.11, 73.84, 67.72, 61.89, 57.36, 54.8, 54.86, 57.14, 61.0, 65.47, 69.72, 72.95, 74.61, 74.64, 73.31, 70.95, 68.06, 64.97, 62.16, 59.81, 58.54, 57.55]
+
+Before removing duplicates, Local Maxima: [80.11, 76.78, 84.14, 74.64]
+Before removing duplicates, Local Maxima Args: [9, 22, 36, 51]
+After removing duplicates, Local Maxima: [80.11, 76.78, 84.14, 74.64]
+After removing duplicates, Local Maxima Args: [9, 22, 36, 51]
+Mean of maxima: 78.91749999999999
+After removing outliers, Local Maxima: [80.11, 76.78, 84.14, 74.64]
+After removing outliers, Local Maxima Args: [9, 22, 36, 51]
+
+First local maxima = 80.11, Frame no. = lsl-00_2-009.png
+Third local maxima = 84.14, Frame no. = lsl-00_2-036.png
+Total frames in the Gait Video: 59
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+18.) Current Row id: lsl-00_3
+
+Smoothen Widths length: 62
+Smoothen Widths: [60.73, 60.73, 60.73, 60.73, 62.14, 64.14, 66.61, 69.42, 72.06, 74.03, 74.95, 74.5, 72.55, 69.33, 65.36, 61.14, 57.56, 55.39, 55.22, 57.08, 60.5, 65.17, 70.08, 74.39, 77.39, 78.55, 77.94, 75.33, 71.44, 66.97, 62.64, 59.36, 57.66, 58.03, 60.0, 63.33, 67.53, 71.75, 75.17, 76.95, 77.05, 75.28, 71.78, 67.14, 62.25, 58.28, 55.86, 55.44, 57.16, 60.55, 64.97, 69.53, 73.42, 75.97, 76.59, 75.33, 72.34, 68.14, 63.36, 58.5, 55.8, 53.25]
+
+Before removing duplicates, Local Maxima: [74.95, 78.55, 77.05, 76.59]
+Before removing duplicates, Local Maxima Args: [11, 26, 41, 55]
+After removing duplicates, Local Maxima: [74.95, 78.55, 77.05, 76.59]
+After removing duplicates, Local Maxima Args: [11, 26, 41, 55]
+Mean of maxima: 76.785
+After removing outliers, Local Maxima: [74.95, 78.55, 77.05, 76.59]
+After removing outliers, Local Maxima Args: [11, 26, 41, 55]
+
+First local maxima = 74.95, Frame no. = lsl-00_3-011.png
+Third local maxima = 77.05, Frame no. = lsl-00_3-041.png
+Total frames in the Gait Video: 62
+Total frames in one Gait Cycle: 31
+
+----------------------------------------------------
+
+19.) Current Row id: lsl-00_4
+
+Smoothen Widths length: 64
+Smoothen Widths: [75.73, 75.73, 75.73, 75.73, 76.14, 75.89, 74.73, 72.42, 68.75, 64.53, 60.22, 56.95, 55.3, 55.72, 58.03, 61.8, 66.41, 70.8, 74.22, 76.14, 76.02, 73.92, 70.36, 66.28, 62.5, 59.78, 58.97, 60.22, 63.36, 67.7, 72.39, 76.67, 79.53, 80.5, 79.25, 75.86, 70.95, 65.25, 59.89, 55.69, 53.58, 53.97, 56.44, 60.44, 65.16, 69.72, 72.92, 74.25, 73.97, 72.19, 69.36, 66.25, 63.83, 62.69, 62.61, 63.78, 65.97, 68.61, 70.97, 72.39, 73.49, 73.98, 74.07, 73.75]
+
+Before removing duplicates, Local Maxima: [76.14, 76.14, 80.5, 74.25, 74.07]
+Before removing duplicates, Local Maxima Args: [5, 20, 34, 48, 63]
+After removing duplicates, Local Maxima: [76.14, 80.5, 74.25, 74.07]
+After removing duplicates, Local Maxima Args: [20, 34, 48, 63]
+Mean of maxima: 76.24
+After removing outliers, Local Maxima: [76.14, 80.5, 74.25, 74.07]
+After removing outliers, Local Maxima Args: [20, 34, 48, 63]
+
+First local maxima = 76.14, Frame no. = lsl-00_4-020.png
+Third local maxima = 74.25, Frame no. = lsl-00_4-048.png
+Total frames in the Gait Video: 64
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+20.) Current Row id: ml-00_1
+
+Smoothen Widths length: 62
+Smoothen Widths: [65.58, 65.58, 65.58, 65.58, 67.97, 70.53, 72.7, 74.0, 73.11, 70.39, 66.34, 61.89, 58.22, 55.75, 55.67, 57.81, 61.83, 66.58, 70.83, 74.72, 76.33, 75.55, 72.45, 67.97, 63.31, 59.03, 56.72, 56.81, 59.47, 64.03, 69.36, 74.11, 77.14, 77.72, 75.7, 71.59, 66.34, 61.34, 57.69, 56.45, 57.7, 61.08, 65.92, 70.83, 74.7, 76.5, 75.89, 73.03, 68.47, 63.39, 59.02, 56.36, 56.05, 58.08, 62.0, 66.94, 71.67, 75.14, 77.17, 77.63, 77.79, 77.11]
+
+Before removing duplicates, Local Maxima: [74.0, 76.33, 77.72, 76.5, 77.79]
+Before removing duplicates, Local Maxima Args: [8, 21, 34, 46, 61]
+After removing duplicates, Local Maxima: [74.0, 76.33, 77.72, 76.5, 77.79]
+After removing duplicates, Local Maxima Args: [8, 21, 34, 46, 61]
+Mean of maxima: 76.46799999999999
+After removing outliers, Local Maxima: [74.0, 76.33, 77.72, 76.5, 77.79]
+After removing outliers, Local Maxima Args: [8, 21, 34, 46, 61]
+
+First local maxima = 74.0, Frame no. = ml-00_1-008.png
+Third local maxima = 77.72, Frame no. = ml-00_1-034.png
+Total frames in the Gait Video: 62
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+21.) Current Row id: ml-00_2
+
+Smoothen Widths length: 63
+Smoothen Widths: [76.73, 76.73, 76.73, 76.73, 76.7, 75.72, 73.64, 70.53, 66.14, 61.78, 58.47, 57.09, 57.97, 60.92, 65.31, 69.72, 73.08, 74.53, 73.75, 70.89, 66.64, 62.22, 58.64, 56.72, 56.83, 59.25, 63.28, 68.03, 72.53, 75.92, 77.58, 76.8, 74.0, 69.89, 65.58, 62.16, 60.44, 61.17, 64.17, 68.81, 73.89, 78.2, 80.72, 80.89, 78.67, 74.67, 69.92, 65.39, 62.17, 60.95, 61.97, 64.81, 68.67, 72.81, 76.31, 78.25, 78.22, 76.14, 72.53, 68.13, 63.3, 60.55, 57.82]
+
+Before removing duplicates, Local Maxima: [76.73, 74.53, 77.58, 80.89, 78.25]
+Before removing duplicates, Local Maxima Args: [4, 18, 31, 44, 56]
+After removing duplicates, Local Maxima: [76.73, 74.53, 77.58, 80.89, 78.25]
+After removing duplicates, Local Maxima Args: [4, 18, 31, 44, 56]
+Mean of maxima: 77.59599999999999
+After removing outliers, Local Maxima: [76.73, 74.53, 77.58, 80.89, 78.25]
+After removing outliers, Local Maxima Args: [4, 18, 31, 44, 56]
+
+First local maxima = 76.73, Frame no. = ml-00_2-004.png
+Third local maxima = 77.58, Frame no. = ml-00_2-031.png
+Total frames in the Gait Video: 63
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+22.) Current Row id: ml-00_3
+
+Smoothen Widths length: 62
+Smoothen Widths: [74.95, 74.95, 74.95, 74.95, 75.39, 75.06, 73.67, 71.25, 67.47, 63.17, 59.42, 57.33, 57.58, 60.11, 64.58, 70.19, 75.67, 79.78, 81.67, 81.0, 77.83, 72.75, 66.97, 61.83, 58.42, 57.5, 59.25, 63.28, 68.45, 73.33, 76.75, 77.86, 76.39, 72.61, 67.53, 62.42, 58.47, 56.61, 57.22, 60.14, 64.58, 69.39, 73.39, 75.61, 75.58, 73.28, 69.25, 64.47, 60.11, 57.25, 56.5, 58.08, 61.61, 66.42, 71.33, 75.17, 77.08, 76.72, 74.76, 71.4, 69.31, 66.77]
+
+Before removing duplicates, Local Maxima: [75.39, 81.67, 77.86, 75.61, 77.08]
+Before removing duplicates, Local Maxima Args: [5, 19, 32, 44, 57]
+After removing duplicates, Local Maxima: [75.39, 81.67, 77.86, 75.61, 77.08]
+After removing duplicates, Local Maxima Args: [5, 19, 32, 44, 57]
+Mean of maxima: 77.522
+After removing outliers, Local Maxima: [75.39, 81.67, 77.86, 75.61, 77.08]
+After removing outliers, Local Maxima Args: [5, 19, 32, 44, 57]
+
+First local maxima = 75.39, Frame no. = ml-00_3-005.png
+Third local maxima = 77.86, Frame no. = ml-00_3-032.png
+Total frames in the Gait Video: 62
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+23.) Current Row id: ml-00_4
+
+Smoothen Widths length: 56
+Smoothen Widths: [53.75, 53.75, 53.75, 53.75, 56.66, 60.58, 64.97, 69.22, 72.08, 72.94, 71.5, 68.08, 63.61, 59.33, 56.42, 55.53, 56.95, 60.45, 65.31, 70.22, 73.97, 75.7, 75.05, 72.08, 67.55, 62.69, 58.78, 56.8, 57.22, 59.64, 63.64, 67.58, 70.78, 72.16, 71.22, 68.75, 64.58, 60.83, 57.42, 55.45, 55.5, 57.44, 61.25, 65.47, 69.75, 72.95, 74.42, 73.81, 71.33, 67.75, 63.95, 61.05, 59.15, 58.62, 58.38, 58.85]
+
+Before removing duplicates, Local Maxima: [72.94, 75.7, 72.16, 74.42, 58.85]
+Before removing duplicates, Local Maxima Args: [10, 22, 34, 47, 56]
+After removing duplicates, Local Maxima: [72.94, 75.7, 72.16, 74.42, 58.85]
+After removing duplicates, Local Maxima Args: [10, 22, 34, 47, 56]
+Mean of maxima: 70.814
+After removing outliers, Local Maxima: [72.94, 75.7, 72.16, 74.42]
+After removing outliers, Local Maxima Args: [10, 22, 34, 47]
+
+First local maxima = 72.94, Frame no. = ml-00_4-010.png
+Third local maxima = 72.16, Frame no. = ml-00_4-034.png
+Total frames in the Gait Video: 56
+Total frames in one Gait Cycle: 25
+
+----------------------------------------------------
+
+24.) Current Row id: nhz-00_1
+
+Smoothen Widths length: 56
+Smoothen Widths: [58.06, 58.06, 58.06, 58.06, 60.78, 64.72, 69.61, 74.86, 79.28, 81.97, 82.39, 80.3, 76.08, 70.78, 65.8, 62.25, 61.0, 62.42, 66.42, 72.22, 78.42, 83.61, 86.78, 87.39, 85.19, 80.47, 74.25, 68.08, 63.2, 60.47, 60.42, 63.14, 68.06, 73.7, 78.64, 81.81, 82.72, 81.11, 77.3, 72.33, 67.42, 63.8, 62.05, 62.53, 65.14, 69.25, 73.86, 77.53, 79.47, 79.28, 76.75, 72.3, 66.77, 61.09, 57.87, 54.71]
+
+Before removing duplicates, Local Maxima: [82.39, 87.39, 82.72, 79.47]
+Before removing duplicates, Local Maxima Args: [11, 24, 37, 49]
+After removing duplicates, Local Maxima: [82.39, 87.39, 82.72, 79.47]
+After removing duplicates, Local Maxima Args: [11, 24, 37, 49]
+Mean of maxima: 82.9925
+After removing outliers, Local Maxima: [82.39, 87.39, 82.72, 79.47]
+After removing outliers, Local Maxima Args: [11, 24, 37, 49]
+
+First local maxima = 82.39, Frame no. = nhz-00_1-011.png
+Third local maxima = 82.72, Frame no. = nhz-00_1-037.png
+Total frames in the Gait Video: 56
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+25.) Current Row id: nhz-00_2
+
+Smoothen Widths length: 60
+Smoothen Widths: [55.39, 55.39, 55.39, 55.39, 57.92, 61.53, 66.17, 71.53, 76.75, 80.72, 83.0, 83.17, 81.14, 77.36, 72.47, 67.59, 63.75, 61.92, 62.39, 65.06, 69.61, 75.11, 80.17, 83.81, 85.5, 84.81, 81.59, 76.45, 70.55, 65.05, 60.86, 58.92, 59.72, 63.0, 68.08, 73.72, 78.75, 82.08, 83.0, 81.36, 77.39, 71.97, 66.5, 62.19, 60.08, 60.55, 63.58, 68.69, 74.55, 79.92, 83.61, 85.14, 84.31, 81.03, 76.08, 70.39, 64.86, 59.95, 57.11, 54.8]
+
+Before removing duplicates, Local Maxima: [83.17, 85.5, 83.0, 85.14]
+Before removing duplicates, Local Maxima Args: [12, 25, 39, 52]
+After removing duplicates, Local Maxima: [83.17, 85.5, 83.0, 85.14]
+After removing duplicates, Local Maxima Args: [12, 25, 39, 52]
+Mean of maxima: 84.2025
+After removing outliers, Local Maxima: [83.17, 85.5, 83.0, 85.14]
+After removing outliers, Local Maxima Args: [12, 25, 39, 52]
+
+First local maxima = 83.17, Frame no. = nhz-00_2-012.png
+Third local maxima = 83.0, Frame no. = nhz-00_2-039.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+26.) Current Row id: nhz-00_3
+
+Smoothen Widths length: 57
+Smoothen Widths: [81.5, 81.5, 81.5, 81.5, 82.67, 83.11, 82.45, 80.47, 76.25, 70.84, 65.61, 61.67, 59.92, 60.78, 64.11, 69.39, 75.36, 80.75, 84.53, 86.08, 85.08, 81.5, 76.08, 70.17, 65.0, 61.55, 60.64, 62.61, 67.08, 72.86, 78.5, 82.8, 84.89, 84.25, 81.0, 75.89, 70.17, 65.17, 61.89, 61.0, 62.72, 66.64, 71.86, 77.0, 80.92, 82.89, 82.44, 79.61, 74.8, 69.19, 64.08, 60.45, 58.95, 59.36, 61.83, 63.39, 65.7]
+
+Before removing duplicates, Local Maxima: [83.11, 86.08, 84.89, 82.89, 65.7]
+Before removing duplicates, Local Maxima Args: [6, 20, 33, 46, 57]
+After removing duplicates, Local Maxima: [83.11, 86.08, 84.89, 82.89, 65.7]
+After removing duplicates, Local Maxima Args: [6, 20, 33, 46, 57]
+Mean of maxima: 80.53399999999999
+After removing outliers, Local Maxima: [83.11, 86.08, 84.89, 82.89]
+After removing outliers, Local Maxima Args: [6, 20, 33, 46]
+
+First local maxima = 83.11, Frame no. = nhz-00_3-006.png
+Third local maxima = 84.89, Frame no. = nhz-00_3-033.png
+Total frames in the Gait Video: 57
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+27.) Current Row id: nhz-00_4
+
+Smoothen Widths length: 58
+Smoothen Widths: [52.83, 52.83, 52.83, 52.83, 55.0, 58.33, 62.78, 68.08, 73.55, 78.03, 80.86, 81.53, 79.86, 76.19, 71.17, 65.92, 61.61, 59.25, 59.39, 61.97, 66.72, 72.7, 78.36, 82.59, 84.61, 84.03, 80.86, 75.64, 69.72, 64.47, 60.92, 59.89, 61.53, 65.7, 71.39, 77.14, 81.7, 84.14, 84.08, 81.36, 76.5, 70.72, 65.53, 62.03, 60.89, 62.44, 66.5, 72.19, 77.89, 82.3, 84.7, 84.64, 82.03, 77.45, 71.98, 66.43, 63.28, 60.22]
+
+Before removing duplicates, Local Maxima: [81.53, 84.61, 84.14, 84.7]
+Before removing duplicates, Local Maxima Args: [12, 25, 38, 51]
+After removing duplicates, Local Maxima: [81.53, 84.61, 84.14, 84.7]
+After removing duplicates, Local Maxima Args: [12, 25, 38, 51]
+Mean of maxima: 83.74499999999999
+After removing outliers, Local Maxima: [81.53, 84.61, 84.14, 84.7]
+After removing outliers, Local Maxima Args: [12, 25, 38, 51]
+
+First local maxima = 81.53, Frame no. = nhz-00_4-012.png
+Third local maxima = 84.14, Frame no. = nhz-00_4-038.png
+Total frames in the Gait Video: 58
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+28.) Current Row id: rj-00_1
+
+Smoothen Widths length: 63
+Smoothen Widths: [49.27, 49.27, 49.27, 49.27, 48.91, 49.36, 50.83, 53.14, 56.67, 60.31, 62.92, 63.95, 63.17, 60.86, 57.75, 54.86, 53.22, 53.3, 55.19, 58.55, 62.64, 66.28, 68.39, 68.45, 66.34, 62.72, 58.59, 55.09, 53.31, 53.78, 56.45, 60.59, 64.86, 68.17, 69.64, 68.78, 65.95, 61.86, 57.95, 55.31, 54.7, 56.59, 60.53, 65.64, 70.47, 73.86, 75.0, 73.69, 70.28, 65.72, 61.39, 58.47, 57.72, 58.89, 61.39, 64.25, 66.33, 66.7, 64.86, 61.62, 57.4, 54.84, 51.97]
+
+Before removing duplicates, Local Maxima: [49.27, 63.95, 68.45, 69.64, 75.0, 66.7]
+Before removing duplicates, Local Maxima Args: [4, 12, 24, 35, 47, 58]
+After removing duplicates, Local Maxima: [49.27, 63.95, 68.45, 69.64, 75.0, 66.7]
+After removing duplicates, Local Maxima Args: [4, 12, 24, 35, 47, 58]
+Mean of maxima: 65.50166666666667
+After removing outliers, Local Maxima: [63.95, 68.45, 69.64, 75.0, 66.7]
+After removing outliers, Local Maxima Args: [12, 24, 35, 47, 58]
+
+First local maxima = 63.95, Frame no. = rj-00_1-012.png
+Third local maxima = 69.64, Frame no. = rj-00_1-035.png
+Total frames in the Gait Video: 63
+Total frames in one Gait Cycle: 24
+
+----------------------------------------------------
+
+29.) Current Row id: rj-00_2
+
+Smoothen Widths length: 58
+Smoothen Widths: [62.14, 62.14, 62.14, 62.14, 65.11, 67.97, 70.08, 71.16, 70.0, 66.97, 63.08, 59.72, 58.0, 58.47, 61.06, 65.03, 69.05, 71.94, 72.97, 71.61, 68.19, 63.72, 59.61, 57.08, 56.61, 58.67, 62.7, 67.61, 71.95, 74.5, 74.75, 72.5, 68.39, 63.56, 59.33, 56.83, 56.67, 58.72, 62.28, 66.03, 69.03, 70.36, 69.45, 66.58, 62.67, 59.11, 56.69, 56.08, 57.72, 61.08, 65.25, 68.78, 70.89, 71.03, 69.47, 66.42, 64.48, 62.09]
+
+Before removing duplicates, Local Maxima: [71.16, 72.97, 74.75, 70.36, 71.03]
+Before removing duplicates, Local Maxima Args: [8, 19, 31, 42, 54]
+After removing duplicates, Local Maxima: [71.16, 72.97, 74.75, 70.36, 71.03]
+After removing duplicates, Local Maxima Args: [8, 19, 31, 42, 54]
+Mean of maxima: 72.054
+After removing outliers, Local Maxima: [71.16, 72.97, 74.75, 70.36, 71.03]
+After removing outliers, Local Maxima Args: [8, 19, 31, 42, 54]
+
+First local maxima = 71.16, Frame no. = rj-00_2-008.png
+Third local maxima = 74.75, Frame no. = rj-00_2-031.png
+Total frames in the Gait Video: 58
+Total frames in one Gait Cycle: 24
+
+----------------------------------------------------
+
+30.) Current Row id: rj-00_3
+
+Smoothen Widths length: 54
+Smoothen Widths: [60.02, 60.02, 60.02, 60.02, 62.5, 65.08, 67.22, 68.45, 67.61, 65.0, 61.0, 56.95, 54.0, 53.03, 54.47, 57.95, 62.78, 67.36, 70.45, 71.36, 69.89, 66.53, 62.42, 59.08, 57.58, 58.45, 61.53, 66.2, 71.03, 74.64, 76.14, 75.06, 71.83, 67.25, 62.72, 59.55, 58.61, 60.08, 63.22, 66.89, 69.75, 70.75, 69.47, 66.28, 62.0, 58.14, 55.75, 55.64, 58.0, 62.0, 67.2, 72.31, 75.34, 78.17]
+
+Before removing duplicates, Local Maxima: [68.45, 71.36, 76.14, 70.75, 78.17]
+Before removing duplicates, Local Maxima Args: [8, 20, 31, 42, 54]
+After removing duplicates, Local Maxima: [68.45, 71.36, 76.14, 70.75, 78.17]
+After removing duplicates, Local Maxima Args: [8, 20, 31, 42, 54]
+Mean of maxima: 72.974
+After removing outliers, Local Maxima: [68.45, 71.36, 76.14, 70.75, 78.17]
+After removing outliers, Local Maxima Args: [8, 20, 31, 42, 54]
+
+First local maxima = 68.45, Frame no. = rj-00_3-008.png
+Third local maxima = 76.14, Frame no. = rj-00_3-031.png
+Total frames in the Gait Video: 54
+Total frames in one Gait Cycle: 24
+
+----------------------------------------------------
+
+31.) Current Row id: rj-00_4
+
+Smoothen Widths length: 59
+Smoothen Widths: [60.83, 60.83, 60.83, 60.83, 63.36, 65.89, 67.89, 68.92, 67.83, 65.05, 61.53, 58.47, 56.75, 57.0, 59.39, 63.22, 67.3, 70.25, 71.22, 70.17, 67.28, 63.53, 60.08, 58.14, 58.53, 60.81, 64.25, 67.53, 69.67, 69.86, 67.92, 64.45, 60.7, 57.95, 56.97, 58.31, 61.59, 66.14, 70.56, 73.67, 74.83, 73.67, 70.64, 66.45, 62.28, 59.31, 58.06, 58.84, 61.09, 64.09, 66.75, 68.14, 67.75, 65.53, 62.08, 58.09, 54.1, 51.76, 49.74]
+
+Before removing duplicates, Local Maxima: [68.92, 71.22, 69.86, 74.83, 68.14]
+Before removing duplicates, Local Maxima Args: [8, 19, 30, 41, 52]
+After removing duplicates, Local Maxima: [68.92, 71.22, 69.86, 74.83, 68.14]
+After removing duplicates, Local Maxima Args: [8, 19, 30, 41, 52]
+Mean of maxima: 70.594
+After removing outliers, Local Maxima: [68.92, 71.22, 69.86, 74.83, 68.14]
+After removing outliers, Local Maxima Args: [8, 19, 30, 41, 52]
+
+First local maxima = 68.92, Frame no. = rj-00_4-008.png
+Third local maxima = 69.86, Frame no. = rj-00_4-030.png
+Total frames in the Gait Video: 59
+Total frames in one Gait Cycle: 23
+
+----------------------------------------------------
+
+32.) Current Row id: syj-00_1
+
+Smoothen Widths length: 53
+Smoothen Widths: [72.25, 72.25, 72.25, 72.25, 75.78, 80.17, 84.89, 89.33, 91.78, 91.67, 89.05, 84.3, 78.25, 72.28, 67.72, 65.64, 66.45, 69.97, 75.7, 82.14, 87.78, 91.47, 92.33, 90.17, 85.31, 78.86, 72.31, 66.95, 63.95, 63.89, 66.64, 71.47, 77.03, 81.8, 84.64, 84.95, 82.67, 78.36, 73.03, 68.28, 65.31, 64.75, 66.72, 70.83, 76.44, 81.91, 85.97, 87.69, 86.75, 83.93, 79.35, 76.61, 73.35]
+
+Before removing duplicates, Local Maxima: [91.78, 92.33, 84.95, 87.69]
+Before removing duplicates, Local Maxima Args: [9, 23, 36, 48]
+After removing duplicates, Local Maxima: [91.78, 92.33, 84.95, 87.69]
+After removing duplicates, Local Maxima Args: [9, 23, 36, 48]
+Mean of maxima: 89.1875
+After removing outliers, Local Maxima: [91.78, 92.33, 84.95, 87.69]
+After removing outliers, Local Maxima Args: [9, 23, 36, 48]
+
+First local maxima = 91.78, Frame no. = syj-00_1-009.png
+Third local maxima = 84.95, Frame no. = syj-00_1-036.png
+Total frames in the Gait Video: 53
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+33.) Current Row id: syj-00_2
+
+Smoothen Widths length: 51
+Smoothen Widths: [75.03, 75.03, 75.03, 75.03, 71.97, 68.36, 64.8, 61.97, 61.11, 62.78, 66.53, 71.8, 77.42, 82.03, 85.0, 85.3, 83.2, 78.92, 73.45, 68.17, 64.23, 62.75, 63.84, 67.39, 72.78, 78.61, 83.5, 86.42, 86.92, 84.95, 80.72, 75.33, 69.97, 65.7, 63.5, 63.67, 66.42, 71.0, 76.5, 81.8, 85.58, 87.22, 86.3, 83.17, 78.31, 72.72, 67.86, 63.96, 61.43, 60.01, 59.48]
+
+Before removing duplicates, Local Maxima: [75.03, 85.3, 86.92, 87.22]
+Before removing duplicates, Local Maxima Args: [4, 16, 29, 42]
+After removing duplicates, Local Maxima: [75.03, 85.3, 86.92, 87.22]
+After removing duplicates, Local Maxima Args: [4, 16, 29, 42]
+Mean of maxima: 83.6175
+After removing outliers, Local Maxima: [75.03, 85.3, 86.92, 87.22]
+After removing outliers, Local Maxima Args: [4, 16, 29, 42]
+
+First local maxima = 75.03, Frame no. = syj-00_2-004.png
+Third local maxima = 86.92, Frame no. = syj-00_2-029.png
+Total frames in the Gait Video: 51
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+34.) Current Row id: syj-00_3
+
+Smoothen Widths length: 54
+Smoothen Widths: [87.81, 87.81, 87.81, 87.81, 89.14, 89.73, 89.14, 87.2, 82.92, 77.2, 71.53, 67.2, 65.2, 66.0, 69.36, 74.78, 80.72, 85.72, 88.61, 88.67, 85.95, 80.89, 74.58, 68.5, 63.92, 61.8, 62.39, 65.47, 70.53, 76.19, 81.14, 84.33, 85.36, 83.86, 80.03, 74.75, 69.28, 64.83, 62.28, 62.3, 64.92, 69.64, 75.36, 80.7, 84.47, 85.83, 84.45, 80.5, 74.75, 68.33, 62.0, 56.47, 53.43, 50.99]
+
+Before removing duplicates, Local Maxima: [89.73, 88.67, 85.36, 85.83]
+Before removing duplicates, Local Maxima Args: [6, 20, 33, 46]
+After removing duplicates, Local Maxima: [89.73, 88.67, 85.36, 85.83]
+After removing duplicates, Local Maxima Args: [6, 20, 33, 46]
+Mean of maxima: 87.3975
+After removing outliers, Local Maxima: [89.73, 88.67, 85.36, 85.83]
+After removing outliers, Local Maxima Args: [6, 20, 33, 46]
+
+First local maxima = 89.73, Frame no. = syj-00_3-006.png
+Third local maxima = 85.36, Frame no. = syj-00_3-033.png
+Total frames in the Gait Video: 54
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+35.) Current Row id: syj-00_4
+
+Smoothen Widths length: 51
+Smoothen Widths: [63.92, 63.92, 63.92, 63.92, 61.39, 59.11, 57.75, 57.5, 59.78, 64.17, 69.89, 75.69, 80.3, 83.14, 83.47, 81.36, 77.19, 71.8, 66.5, 62.39, 60.5, 61.19, 64.36, 69.53, 75.42, 80.67, 84.17, 85.2, 83.67, 79.75, 74.34, 68.59, 63.81, 61.11, 60.89, 63.25, 67.61, 73.05, 78.11, 81.58, 82.78, 81.5, 78.08, 73.22, 68.05, 63.83, 61.58, 60.92, 62.07, 62.78, 64.44]
+
+Before removing duplicates, Local Maxima: [63.92, 83.47, 85.2, 82.78, 64.44]
+Before removing duplicates, Local Maxima Args: [4, 15, 28, 41, 51]
+After removing duplicates, Local Maxima: [63.92, 83.47, 85.2, 82.78, 64.44]
+After removing duplicates, Local Maxima Args: [4, 15, 28, 41, 51]
+Mean of maxima: 75.962
+After removing outliers, Local Maxima: [83.47, 85.2, 82.78]
+After removing outliers, Local Maxima Args: [15, 28, 41]
+
+First local maxima = 83.47, Frame no. = syj-00_4-015.png
+Third local maxima = 82.78, Frame no. = syj-00_4-041.png
+Total frames in the Gait Video: 51
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+36.) Current Row id: wl-00_1
+
+Smoothen Widths length: 37
+Smoothen Widths: [70.7, 70.7, 70.7, 70.7, 74.72, 80.56, 87.95, 96.14, 103.61, 108.69, 110.69, 109.03, 103.94, 96.61, 88.8, 82.19, 78.14, 77.72, 80.97, 87.25, 94.69, 101.56, 106.31, 107.83, 105.89, 100.61, 93.36, 85.78, 79.53, 75.86, 75.44, 78.47, 84.11, 91.24, 98.54, 102.78, 106.76]
+
+Before removing duplicates, Local Maxima: [110.69, 107.83, 106.76]
+Before removing duplicates, Local Maxima Args: [11, 24, 37]
+After removing duplicates, Local Maxima: [110.69, 107.83, 106.76]
+After removing duplicates, Local Maxima Args: [11, 24, 37]
+
+First local maxima = 110.69, Frame no. = wl-00_1-011.png
+Third local maxima = 106.76, Frame no. = wl-00_1-037.png
+Total frames in the Gait Video: 37
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+37.) Current Row id: wl-00_2
+
+Smoothen Widths length: 41
+Smoothen Widths: [77.75, 77.75, 77.75, 77.75, 82.58, 88.53, 94.81, 100.5, 103.45, 103.17, 99.53, 93.45, 86.33, 80.03, 76.0, 74.97, 77.56, 83.11, 90.5, 97.86, 103.58, 106.78, 106.5, 102.86, 96.64, 89.39, 82.75, 77.97, 76.31, 78.08, 82.92, 89.81, 97.11, 103.33, 107.14, 107.86, 105.42, 100.89, 95.02, 91.56, 87.74]
+
+Before removing duplicates, Local Maxima: [103.45, 106.78, 107.86]
+Before removing duplicates, Local Maxima Args: [9, 22, 36]
+After removing duplicates, Local Maxima: [103.45, 106.78, 107.86]
+After removing duplicates, Local Maxima Args: [9, 22, 36]
+
+First local maxima = 103.45, Frame no. = wl-00_2-009.png
+Third local maxima = 107.86, Frame no. = wl-00_2-036.png
+Total frames in the Gait Video: 41
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+38.) Current Row id: wl-00_3
+
+Smoothen Widths length: 51
+Smoothen Widths: [82.28, 82.28, 82.28, 82.28, 86.75, 92.42, 98.67, 104.86, 109.0, 110.58, 109.61, 105.92, 100.03, 92.89, 85.7, 79.8, 75.22, 73.39, 74.86, 79.39, 85.94, 92.97, 100.5, 106.61, 110.25, 110.97, 108.67, 103.94, 96.75, 88.5, 80.3, 73.33, 68.97, 67.89, 70.11, 75.22, 82.5, 90.56, 97.84, 103.03, 106.14, 106.69, 104.5, 100.02, 94.08, 87.86, 81.36, 75.25, 70.21, 67.59, 65.57]
+
+Before removing duplicates, Local Maxima: [110.58, 110.97, 106.69]
+Before removing duplicates, Local Maxima Args: [10, 26, 42]
+After removing duplicates, Local Maxima: [110.58, 110.97, 106.69]
+After removing duplicates, Local Maxima Args: [10, 26, 42]
+
+First local maxima = 110.58, Frame no. = wl-00_3-010.png
+Third local maxima = 106.69, Frame no. = wl-00_3-042.png
+Total frames in the Gait Video: 51
+Total frames in one Gait Cycle: 33
+
+----------------------------------------------------
+
+39.) Current Row id: wl-00_4
+
+Smoothen Widths length: 41
+Smoothen Widths: [104.42, 104.42, 104.42, 104.42, 103.89, 102.0, 98.47, 93.47, 86.97, 80.55, 75.72, 73.58, 74.72, 79.0, 85.58, 92.78, 99.03, 103.06, 104.06, 101.75, 96.53, 89.72, 82.86, 77.39, 74.58, 75.06, 78.78, 85.03, 92.28, 98.92, 103.47, 105.06, 103.33, 98.47, 91.83, 84.86, 78.89, 74.28, 71.65, 70.42, 70.19]
+
+Before removing duplicates, Local Maxima: [104.42, 104.06, 105.06]
+Before removing duplicates, Local Maxima Args: [4, 19, 32]
+After removing duplicates, Local Maxima: [104.42, 104.06, 105.06]
+After removing duplicates, Local Maxima Args: [4, 19, 32]
+
+First local maxima = 104.42, Frame no. = wl-00_4-004.png
+Third local maxima = 105.06, Frame no. = wl-00_4-032.png
+Total frames in the Gait Video: 41
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+40.) Current Row id: wq-00_1
+
+Smoothen Widths length: 59
+Smoothen Widths: [50.5, 50.5, 50.5, 50.5, 49.89, 50.17, 51.64, 54.33, 58.89, 64.39, 69.64, 73.67, 75.7, 75.34, 72.64, 68.14, 63.11, 58.61, 55.72, 55.11, 56.97, 61.08, 66.2, 70.97, 74.22, 75.28, 73.75, 69.86, 64.83, 60.0, 56.53, 55.25, 56.53, 60.14, 64.92, 69.59, 73.03, 74.34, 73.22, 69.81, 65.0, 60.11, 56.22, 54.33, 54.8, 57.64, 62.25, 67.39, 71.95, 74.89, 75.61, 73.92, 70.08, 65.03, 59.69, 54.64, 50.48, 48.22, 46.56]
+
+Before removing duplicates, Local Maxima: [50.5, 75.7, 75.28, 74.34, 75.61]
+Before removing duplicates, Local Maxima Args: [4, 13, 26, 38, 51]
+After removing duplicates, Local Maxima: [50.5, 75.7, 75.28, 74.34, 75.61]
+After removing duplicates, Local Maxima Args: [4, 13, 26, 38, 51]
+Mean of maxima: 70.28600000000002
+After removing outliers, Local Maxima: [75.7, 75.28, 74.34, 75.61]
+After removing outliers, Local Maxima Args: [13, 26, 38, 51]
+
+First local maxima = 75.7, Frame no. = wq-00_1-013.png
+Third local maxima = 74.34, Frame no. = wq-00_1-038.png
+Total frames in the Gait Video: 59
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+41.) Current Row id: wq-00_2
+
+Smoothen Widths length: 60
+Smoothen Widths: [52.39, 52.39, 52.39, 52.39, 52.78, 54.2, 56.86, 60.67, 65.61, 70.45, 74.14, 75.97, 75.45, 72.47, 67.81, 62.59, 57.92, 54.78, 53.81, 55.47, 59.36, 64.53, 69.8, 74.08, 76.53, 76.55, 74.08, 69.75, 64.61, 59.83, 56.53, 55.39, 56.89, 60.67, 65.86, 71.31, 75.84, 78.59, 78.95, 76.86, 72.7, 67.31, 61.67, 56.86, 53.81, 53.0, 54.47, 57.78, 62.14, 66.44, 69.64, 71.05, 70.44, 67.83, 63.8, 59.36, 54.97, 51.25, 49.14, 47.59]
+
+Before removing duplicates, Local Maxima: [75.97, 76.55, 78.95, 71.05]
+Before removing duplicates, Local Maxima Args: [12, 26, 39, 52]
+After removing duplicates, Local Maxima: [75.97, 76.55, 78.95, 71.05]
+After removing duplicates, Local Maxima Args: [12, 26, 39, 52]
+Mean of maxima: 75.63
+After removing outliers, Local Maxima: [75.97, 76.55, 78.95, 71.05]
+After removing outliers, Local Maxima Args: [12, 26, 39, 52]
+
+First local maxima = 75.97, Frame no. = wq-00_2-012.png
+Third local maxima = 78.95, Frame no. = wq-00_2-039.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+42.) Current Row id: wq-00_3
+
+Smoothen Widths length: 60
+Smoothen Widths: [46.11, 46.11, 46.11, 46.11, 48.28, 51.55, 55.8, 60.61, 65.36, 68.83, 70.39, 69.78, 67.25, 63.39, 59.03, 55.42, 53.47, 53.7, 56.03, 60.31, 65.61, 70.72, 74.5, 76.36, 75.92, 73.05, 68.42, 63.14, 58.53, 55.47, 54.72, 56.42, 60.33, 65.47, 70.61, 74.7, 76.86, 76.8, 74.39, 70.14, 64.83, 59.61, 55.53, 53.34, 53.5, 55.95, 60.17, 64.97, 69.22, 71.97, 72.64, 71.08, 67.61, 63.08, 58.58, 55.17, 52.85, 52.1, 51.72, 52.19]
+
+Before removing duplicates, Local Maxima: [70.39, 76.36, 76.86, 72.64, 52.19]
+Before removing duplicates, Local Maxima Args: [11, 24, 37, 51, 60]
+After removing duplicates, Local Maxima: [70.39, 76.36, 76.86, 72.64, 52.19]
+After removing duplicates, Local Maxima Args: [11, 24, 37, 51, 60]
+Mean of maxima: 69.688
+After removing outliers, Local Maxima: [70.39, 76.36, 76.86, 72.64]
+After removing outliers, Local Maxima Args: [11, 24, 37, 51]
+
+First local maxima = 70.39, Frame no. = wq-00_3-011.png
+Third local maxima = 76.86, Frame no. = wq-00_3-037.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+43.) Current Row id: wq-00_4
+
+Smoothen Widths length: 58
+Smoothen Widths: [52.2, 52.2, 52.2, 52.2, 54.53, 58.09, 62.67, 67.61, 71.97, 74.72, 75.19, 73.17, 69.0, 63.91, 59.05, 55.58, 54.42, 55.78, 59.45, 64.5, 70.0, 74.64, 77.42, 77.92, 76.0, 72.03, 66.78, 61.59, 57.59, 55.64, 56.17, 59.2, 64.14, 69.69, 74.58, 77.78, 78.64, 76.94, 72.92, 67.64, 62.19, 57.66, 55.0, 54.61, 56.58, 60.19, 64.61, 68.72, 71.55, 72.5, 71.25, 68.11, 63.75, 59.17, 54.77, 51.32, 49.39, 48.07]
+
+Before removing duplicates, Local Maxima: [75.19, 77.92, 78.64, 72.5]
+Before removing duplicates, Local Maxima Args: [11, 24, 37, 50]
+After removing duplicates, Local Maxima: [75.19, 77.92, 78.64, 72.5]
+After removing duplicates, Local Maxima Args: [11, 24, 37, 50]
+Mean of maxima: 76.0625
+After removing outliers, Local Maxima: [75.19, 77.92, 78.64, 72.5]
+After removing outliers, Local Maxima Args: [11, 24, 37, 50]
+
+First local maxima = 75.19, Frame no. = wq-00_4-011.png
+Third local maxima = 78.64, Frame no. = wq-00_4-037.png
+Total frames in the Gait Video: 58
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+44.) Current Row id: wyc-00_1
+
+Smoothen Widths length: 60
+Smoothen Widths: [49.56, 49.56, 49.56, 49.56, 51.0, 53.55, 57.44, 62.53, 68.25, 73.42, 77.45, 79.45, 78.81, 75.72, 71.0, 65.95, 60.78, 55.95, 52.64, 50.75, 50.28, 50.78, 52.5, 55.53, 59.11, 62.97, 65.8, 66.36, 65.42, 63.67, 60.06, 55.03, 50.42, 47.06, 45.5, 45.11, 46.69, 50.17, 53.86, 58.08, 60.58, 60.72, 59.06, 56.06, 52.97, 50.5, 49.95, 51.7, 55.75, 60.86, 66.17, 70.25, 72.28, 72.05, 69.05, 64.36, 58.81, 53.07, 49.75, 46.61]
+
+Before removing duplicates, Local Maxima: [79.45, 66.36, 60.72, 72.28]
+Before removing duplicates, Local Maxima Args: [12, 28, 42, 53]
+After removing duplicates, Local Maxima: [79.45, 66.36, 60.72, 72.28]
+After removing duplicates, Local Maxima Args: [12, 28, 42, 53]
+Mean of maxima: 69.7025
+After removing outliers, Local Maxima: [79.45, 66.36, 60.72, 72.28]
+After removing outliers, Local Maxima Args: [12, 28, 42, 53]
+
+First local maxima = 79.45, Frame no. = wyc-00_1-012.png
+Third local maxima = 60.72, Frame no. = wyc-00_1-042.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 31
+
+----------------------------------------------------
+
+45.) Current Row id: wyc-00_2
+
+Smoothen Widths length: 55
+Smoothen Widths: [57.58, 57.58, 57.58, 57.58, 59.0, 60.58, 62.22, 63.58, 63.64, 62.53, 61.14, 59.05, 56.95, 56.11, 56.84, 58.78, 61.36, 64.28, 67.34, 68.7, 68.28, 66.7, 64.0, 61.55, 58.8, 56.5, 56.03, 57.44, 60.94, 65.5, 70.7, 76.72, 80.34, 81.45, 79.59, 75.17, 69.39, 62.7, 58.36, 55.53, 55.03, 56.64, 59.3, 62.14, 63.94, 65.39, 65.75, 64.91, 63.44, 61.94, 60.19, 58.05, 56.14, 55.2, 54.46]
+
+Before removing duplicates, Local Maxima: [63.64, 68.7, 81.45, 65.75]
+Before removing duplicates, Local Maxima Args: [9, 20, 34, 47]
+After removing duplicates, Local Maxima: [63.64, 68.7, 81.45, 65.75]
+After removing duplicates, Local Maxima Args: [9, 20, 34, 47]
+Mean of maxima: 69.885
+After removing outliers, Local Maxima: [63.64, 68.7, 81.45, 65.75]
+After removing outliers, Local Maxima Args: [9, 20, 34, 47]
+
+First local maxima = 63.64, Frame no. = wyc-00_2-009.png
+Third local maxima = 81.45, Frame no. = wyc-00_2-034.png
+Total frames in the Gait Video: 55
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+46.) Current Row id: wyc-00_3
+
+Smoothen Widths length: 55
+Smoothen Widths: [72.92, 72.92, 72.92, 72.92, 74.25, 74.89, 74.5, 73.03, 69.67, 65.45, 61.2, 58.36, 56.97, 57.45, 60.14, 64.31, 68.64, 71.56, 74.03, 75.03, 73.33, 69.5, 64.86, 61.03, 57.53, 55.59, 56.09, 59.09, 62.34, 65.0, 67.25, 67.42, 65.72, 61.14, 56.45, 52.36, 48.17, 45.69, 44.61, 45.91, 48.31, 50.83, 53.64, 56.58, 58.56, 59.11, 58.5, 57.28, 55.61, 52.75, 51.0, 50.28, 50.28, 50.03, 50.25]
+
+Before removing duplicates, Local Maxima: [74.89, 75.03, 67.42, 59.11, 50.28, 50.25]
+Before removing duplicates, Local Maxima Args: [6, 20, 32, 46, 53, 55]
+After removing duplicates, Local Maxima: [74.89, 75.03, 67.42, 59.11, 50.28, 50.25]
+After removing duplicates, Local Maxima Args: [6, 20, 32, 46, 53, 55]
+Mean of maxima: 62.830000000000005
+After removing outliers, Local Maxima: [74.89, 75.03, 67.42, 59.11]
+After removing outliers, Local Maxima Args: [6, 20, 32, 46]
+
+First local maxima = 74.89, Frame no. = wyc-00_3-006.png
+Third local maxima = 67.42, Frame no. = wyc-00_3-032.png
+Total frames in the Gait Video: 55
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+47.) Current Row id: wyc-00_4
+
+Smoothen Widths length: 60
+Smoothen Widths: [59.69, 59.69, 59.69, 59.69, 61.83, 64.61, 67.67, 69.83, 69.45, 67.81, 65.72, 62.2, 58.39, 55.7, 54.72, 54.72, 55.03, 56.0, 56.17, 55.34, 53.53, 51.08, 48.47, 45.89, 44.36, 44.39, 45.5, 48.14, 51.8, 56.72, 61.56, 66.08, 68.97, 70.58, 70.67, 68.69, 66.25, 62.47, 60.08, 57.58, 56.55, 57.58, 60.25, 64.86, 69.7, 75.33, 79.64, 81.36, 80.25, 76.78, 71.64, 65.3, 59.36, 55.89, 53.67, 52.75, 52.94, 53.68, 54.54, 54.3]
+
+Before removing duplicates, Local Maxima: [69.83, 56.17, 70.67, 81.36, 54.54]
+Before removing duplicates, Local Maxima Args: [8, 19, 35, 48, 59]
+After removing duplicates, Local Maxima: [69.83, 56.17, 70.67, 81.36, 54.54]
+After removing duplicates, Local Maxima Args: [8, 19, 35, 48, 59]
+Mean of maxima: 66.51400000000001
+After removing outliers, Local Maxima: [69.83, 70.67, 81.36]
+After removing outliers, Local Maxima Args: [8, 35, 48]
+
+First local maxima = 69.83, Frame no. = wyc-00_4-008.png
+Third local maxima = 81.36, Frame no. = wyc-00_4-048.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 41
+
+----------------------------------------------------
+
+48.) Current Row id: xch-00_1
+
+Smoothen Widths length: 46
+Smoothen Widths: [61.25, 61.25, 61.25, 61.25, 59.75, 59.0, 59.55, 61.61, 66.22, 72.44, 78.72, 83.83, 86.61, 86.47, 83.39, 78.11, 72.31, 67.39, 64.64, 64.86, 68.11, 73.64, 79.83, 85.11, 88.19, 88.17, 84.94, 79.36, 72.8, 66.89, 62.83, 61.75, 63.81, 68.31, 73.86, 78.95, 82.36, 83.0, 80.83, 76.31, 70.97, 66.14, 62.15, 59.98, 58.74, 58.63]
+
+Before removing duplicates, Local Maxima: [61.25, 86.61, 88.19, 83.0]
+Before removing duplicates, Local Maxima Args: [4, 13, 25, 38]
+After removing duplicates, Local Maxima: [61.25, 86.61, 88.19, 83.0]
+After removing duplicates, Local Maxima Args: [4, 13, 25, 38]
+Mean of maxima: 79.7625
+After removing outliers, Local Maxima: [86.61, 88.19, 83.0]
+After removing outliers, Local Maxima Args: [13, 25, 38]
+
+First local maxima = 86.61, Frame no. = xch-00_1-013.png
+Third local maxima = 83.0, Frame no. = xch-00_1-038.png
+Total frames in the Gait Video: 46
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+49.) Current Row id: xch-00_2
+
+Smoothen Widths length: 60
+Smoothen Widths: [62.55, 62.55, 62.55, 62.55, 66.28, 70.97, 76.11, 81.06, 84.11, 84.84, 83.0, 78.89, 73.39, 67.75, 63.09, 60.36, 60.28, 62.84, 67.59, 73.5, 79.33, 83.89, 86.23, 85.98, 83.0, 77.92, 71.89, 66.31, 62.33, 60.83, 62.25, 66.28, 72.0, 77.94, 82.83, 85.58, 85.56, 82.7, 77.61, 71.53, 65.58, 60.95, 58.58, 58.89, 61.44, 65.36, 69.86, 73.83, 76.22, 76.55, 74.83, 71.42, 66.8, 61.89, 57.8, 55.28, 54.11, 54.6, 54.96, 56.15]
+
+Before removing duplicates, Local Maxima: [84.84, 86.23, 85.58, 76.55, 56.15]
+Before removing duplicates, Local Maxima Args: [10, 23, 36, 50, 60]
+After removing duplicates, Local Maxima: [84.84, 86.23, 85.58, 76.55, 56.15]
+After removing duplicates, Local Maxima Args: [10, 23, 36, 50, 60]
+Mean of maxima: 77.86999999999999
+After removing outliers, Local Maxima: [84.84, 86.23, 85.58, 76.55]
+After removing outliers, Local Maxima Args: [10, 23, 36, 50]
+
+First local maxima = 84.84, Frame no. = xch-00_2-010.png
+Third local maxima = 85.58, Frame no. = xch-00_2-036.png
+Total frames in the Gait Video: 60
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+50.) Current Row id: xch-00_3
+
+Smoothen Widths length: 59
+Smoothen Widths: [61.75, 61.75, 61.75, 61.75, 64.47, 67.61, 70.61, 73.05, 73.55, 72.03, 68.89, 64.56, 60.11, 56.56, 54.84, 55.5, 58.36, 63.2, 69.14, 75.0, 79.53, 81.8, 81.5, 78.75, 74.03, 68.44, 63.36, 59.94, 59.08, 60.86, 65.11, 71.0, 77.16, 82.33, 85.55, 86.28, 84.11, 79.53, 73.42, 67.17, 61.89, 58.53, 58.03, 60.28, 64.97, 70.8, 76.47, 80.89, 83.05, 82.61, 79.55, 74.61, 68.86, 63.61, 60.0, 57.98, 57.85, 57.89, 58.99]
+
+Before removing duplicates, Local Maxima: [73.55, 81.8, 86.28, 83.05, 58.99]
+Before removing duplicates, Local Maxima Args: [9, 22, 36, 49, 59]
+After removing duplicates, Local Maxima: [73.55, 81.8, 86.28, 83.05, 58.99]
+After removing duplicates, Local Maxima Args: [9, 22, 36, 49, 59]
+Mean of maxima: 76.73400000000001
+After removing outliers, Local Maxima: [73.55, 81.8, 86.28, 83.05]
+After removing outliers, Local Maxima Args: [9, 22, 36, 49]
+
+First local maxima = 73.55, Frame no. = xch-00_3-009.png
+Third local maxima = 86.28, Frame no. = xch-00_3-036.png
+Total frames in the Gait Video: 59
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+51.) Current Row id: xch-00_4
+
+Smoothen Widths length: 58
+Smoothen Widths: [62.47, 62.47, 62.47, 62.47, 66.36, 71.11, 76.0, 80.56, 83.11, 83.0, 80.17, 75.33, 69.75, 64.58, 61.0, 59.89, 61.45, 65.42, 70.97, 76.72, 81.47, 84.2, 84.45, 81.95, 77.14, 71.2, 65.45, 61.06, 58.92, 59.7, 63.2, 68.64, 74.56, 79.7, 83.03, 83.7, 81.55, 77.08, 71.47, 65.75, 61.03, 58.44, 58.5, 61.0, 65.25, 70.44, 75.42, 79.0, 80.5, 79.61, 76.45, 71.56, 65.89, 60.5, 55.72, 52.22, 50.33, 49.17]
+
+Before removing duplicates, Local Maxima: [83.11, 84.45, 83.7, 80.5]
+Before removing duplicates, Local Maxima Args: [9, 23, 36, 49]
+After removing duplicates, Local Maxima: [83.11, 84.45, 83.7, 80.5]
+After removing duplicates, Local Maxima Args: [9, 23, 36, 49]
+Mean of maxima: 82.94
+After removing outliers, Local Maxima: [83.11, 84.45, 83.7, 80.5]
+After removing outliers, Local Maxima Args: [9, 23, 36, 49]
+
+First local maxima = 83.11, Frame no. = xch-00_4-009.png
+Third local maxima = 83.7, Frame no. = xch-00_4-036.png
+Total frames in the Gait Video: 58
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+52.) Current Row id: xxj-00_1
+
+Smoothen Widths length: 65
+Smoothen Widths: [51.97, 51.97, 51.97, 51.97, 54.3, 57.33, 60.72, 63.94, 66.03, 66.41, 64.94, 62.03, 58.44, 55.33, 53.58, 53.78, 56.11, 60.2, 65.06, 69.42, 72.2, 72.7, 70.86, 67.05, 62.3, 57.92, 55.11, 54.64, 56.42, 60.14, 64.78, 69.08, 71.92, 72.33, 70.53, 66.8, 62.33, 58.31, 55.75, 55.67, 57.8, 61.72, 66.17, 69.89, 71.89, 71.58, 69.11, 65.03, 60.55, 57.0, 55.31, 55.78, 58.36, 62.56, 67.14, 71.0, 73.28, 73.39, 71.19, 67.19, 62.27, 57.05, 52.04, 49.28, 47.02]
+
+Before removing duplicates, Local Maxima: [66.41, 72.7, 72.33, 71.89, 73.39]
+Before removing duplicates, Local Maxima Args: [10, 22, 34, 45, 58]
+After removing duplicates, Local Maxima: [66.41, 72.7, 72.33, 71.89, 73.39]
+After removing duplicates, Local Maxima Args: [10, 22, 34, 45, 58]
+Mean of maxima: 71.344
+After removing outliers, Local Maxima: [66.41, 72.7, 72.33, 71.89, 73.39]
+After removing outliers, Local Maxima Args: [10, 22, 34, 45, 58]
+
+First local maxima = 66.41, Frame no. = xxj-00_1-010.png
+Third local maxima = 72.33, Frame no. = xxj-00_1-034.png
+Total frames in the Gait Video: 65
+Total frames in one Gait Cycle: 25
+
+----------------------------------------------------
+
+53.) Current Row id: xxj-00_2
+
+Smoothen Widths length: 75
+Smoothen Widths: [59.72, 59.72, 59.72, 59.72, 62.5, 65.25, 67.47, 68.8, 67.8, 64.92, 61.11, 57.47, 54.94, 54.3, 55.8, 59.22, 63.66, 67.97, 71.25, 72.64, 71.89, 69.03, 64.78, 60.3, 56.64, 54.69, 54.89, 57.22, 61.0, 65.22, 68.72, 70.58, 70.28, 67.81, 63.92, 59.42, 55.47, 53.0, 52.58, 54.33, 57.58, 61.58, 65.14, 67.34, 67.61, 65.83, 62.58, 58.64, 55.25, 53.3, 53.33, 55.44, 59.14, 63.67, 67.81, 70.67, 71.58, 70.25, 66.95, 62.3, 57.36, 53.03, 50.16, 49.36, 50.61, 53.36, 56.83, 60.16, 62.58, 63.44, 62.58, 60.69, 58.05, 56.47, 54.62]
+
+Before removing duplicates, Local Maxima: [68.8, 72.64, 70.58, 67.61, 71.58, 63.44]
+Before removing duplicates, Local Maxima Args: [8, 20, 32, 45, 57, 70]
+After removing duplicates, Local Maxima: [68.8, 72.64, 70.58, 67.61, 71.58, 63.44]
+After removing duplicates, Local Maxima Args: [8, 20, 32, 45, 57, 70]
+Mean of maxima: 69.10833333333333
+After removing outliers, Local Maxima: [68.8, 72.64, 70.58, 67.61, 71.58, 63.44]
+After removing outliers, Local Maxima Args: [8, 20, 32, 45, 57, 70]
+
+First local maxima = 68.8, Frame no. = xxj-00_2-008.png
+Third local maxima = 70.58, Frame no. = xxj-00_2-032.png
+Total frames in the Gait Video: 75
+Total frames in one Gait Cycle: 25
+
+----------------------------------------------------
+
+54.) Current Row id: xxj-00_3
+
+Smoothen Widths length: 67
+Smoothen Widths: [49.55, 49.55, 49.55, 49.55, 52.14, 55.72, 60.28, 65.33, 69.69, 72.55, 73.33, 71.95, 68.64, 64.33, 60.34, 57.56, 56.83, 58.44, 61.89, 66.17, 70.03, 72.47, 72.81, 70.89, 67.08, 62.42, 58.06, 55.0, 53.97, 55.14, 58.36, 62.8, 67.25, 70.7, 72.25, 71.64, 68.92, 64.7, 60.25, 56.64, 54.83, 55.14, 57.47, 61.3, 65.53, 69.03, 70.8, 70.42, 68.0, 64.16, 59.75, 55.89, 53.61, 53.53, 55.67, 59.36, 63.84, 67.89, 70.53, 71.11, 69.36, 65.95, 61.53, 56.88, 52.67, 50.27, 48.42]
+
+Before removing duplicates, Local Maxima: [73.33, 72.81, 72.25, 70.8, 71.11]
+Before removing duplicates, Local Maxima Args: [11, 23, 35, 47, 60]
+After removing duplicates, Local Maxima: [73.33, 72.81, 72.25, 70.8, 71.11]
+After removing duplicates, Local Maxima Args: [11, 23, 35, 47, 60]
+Mean of maxima: 72.06
+After removing outliers, Local Maxima: [73.33, 72.81, 72.25, 70.8, 71.11]
+After removing outliers, Local Maxima Args: [11, 23, 35, 47, 60]
+
+First local maxima = 73.33, Frame no. = xxj-00_3-011.png
+Third local maxima = 72.25, Frame no. = xxj-00_3-035.png
+Total frames in the Gait Video: 67
+Total frames in one Gait Cycle: 25
+
+----------------------------------------------------
+
+55.) Current Row id: xxj-00_4
+
+Smoothen Widths length: 68
+Smoothen Widths: [50.42, 50.42, 50.42, 50.42, 52.81, 56.2, 60.45, 64.97, 68.81, 71.0, 71.11, 69.14, 65.39, 60.97, 57.0, 54.42, 53.86, 55.5, 58.83, 62.91, 66.69, 69.17, 69.67, 67.97, 64.58, 60.19, 55.83, 52.52, 51.05, 51.72, 54.36, 58.33, 62.72, 66.45, 68.61, 68.78, 66.86, 63.61, 59.64, 56.14, 54.08, 54.0, 56.05, 59.53, 63.97, 68.14, 71.03, 71.97, 70.67, 67.64, 63.31, 58.75, 54.95, 52.72, 52.58, 54.28, 57.36, 61.0, 64.17, 66.0, 66.06, 64.31, 61.25, 57.59, 53.88, 50.76, 48.98, 47.69]
+
+Before removing duplicates, Local Maxima: [71.11, 69.67, 68.78, 71.97, 66.06]
+Before removing duplicates, Local Maxima Args: [11, 23, 36, 48, 61]
+After removing duplicates, Local Maxima: [71.11, 69.67, 68.78, 71.97, 66.06]
+After removing duplicates, Local Maxima Args: [11, 23, 36, 48, 61]
+Mean of maxima: 69.518
+After removing outliers, Local Maxima: [71.11, 69.67, 68.78, 71.97, 66.06]
+After removing outliers, Local Maxima Args: [11, 23, 36, 48, 61]
+
+First local maxima = 71.11, Frame no. = xxj-00_4-011.png
+Third local maxima = 68.78, Frame no. = xxj-00_4-036.png
+Total frames in the Gait Video: 68
+Total frames in one Gait Cycle: 26
+
+----------------------------------------------------
+
+56.) Current Row id: yjf-00_1
+
+Smoothen Widths length: 55
+Smoothen Widths: [68.89, 68.89, 68.89, 68.89, 73.47, 78.94, 84.55, 89.69, 92.39, 91.95, 88.39, 82.5, 75.64, 69.22, 64.58, 62.72, 64.11, 68.53, 74.94, 81.83, 87.64, 91.36, 92.28, 90.19, 85.42, 79.14, 72.69, 67.22, 63.75, 62.92, 65.05, 69.42, 74.95, 80.3, 84.25, 85.89, 84.81, 81.2, 75.89, 70.17, 65.42, 62.72, 62.55, 65.11, 69.86, 75.78, 81.5, 85.78, 87.95, 87.69, 85.11, 81.08, 76.12, 73.31, 70.39]
+
+Before removing duplicates, Local Maxima: [92.39, 92.28, 85.89, 87.95]
+Before removing duplicates, Local Maxima Args: [9, 23, 36, 49]
+After removing duplicates, Local Maxima: [92.39, 92.28, 85.89, 87.95]
+After removing duplicates, Local Maxima Args: [9, 23, 36, 49]
+Mean of maxima: 89.6275
+After removing outliers, Local Maxima: [92.39, 92.28, 85.89, 87.95]
+After removing outliers, Local Maxima Args: [9, 23, 36, 49]
+
+First local maxima = 92.39, Frame no. = yjf-00_1-009.png
+Third local maxima = 85.89, Frame no. = yjf-00_1-036.png
+Total frames in the Gait Video: 55
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+57.) Current Row id: yjf-00_2
+
+Smoothen Widths length: 55
+Smoothen Widths: [63.75, 63.75, 63.75, 63.75, 67.27, 71.77, 76.64, 81.19, 83.97, 84.39, 82.36, 78.19, 72.83, 67.69, 63.89, 62.41, 63.61, 67.47, 73.55, 80.5, 86.83, 91.42, 93.64, 92.92, 89.22, 83.36, 76.61, 70.36, 65.78, 64.0, 65.39, 69.64, 75.89, 82.5, 88.03, 91.31, 91.7, 89.11, 84.05, 77.89, 71.86, 67.03, 64.42, 64.58, 67.45, 72.11, 77.47, 82.67, 86.5, 88.2, 87.2, 84.45, 80.58, 78.22, 75.36]
+
+Before removing duplicates, Local Maxima: [84.39, 93.64, 91.7, 88.2]
+Before removing duplicates, Local Maxima Args: [10, 23, 37, 50]
+After removing duplicates, Local Maxima: [84.39, 93.64, 91.7, 88.2]
+After removing duplicates, Local Maxima Args: [10, 23, 37, 50]
+Mean of maxima: 89.4825
+After removing outliers, Local Maxima: [84.39, 93.64, 91.7, 88.2]
+After removing outliers, Local Maxima Args: [10, 23, 37, 50]
+
+First local maxima = 84.39, Frame no. = yjf-00_2-010.png
+Third local maxima = 91.7, Frame no. = yjf-00_2-037.png
+Total frames in the Gait Video: 55
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+58.) Current Row id: yjf-00_3
+
+Smoothen Widths length: 57
+Smoothen Widths: [57.81, 57.81, 57.81, 57.81, 61.14, 65.83, 71.64, 78.0, 83.58, 87.28, 88.44, 86.83, 82.78, 77.0, 70.86, 65.64, 62.5, 62.22, 64.78, 69.97, 76.44, 82.75, 87.61, 90.0, 89.44, 85.83, 80.08, 73.53, 67.47, 63.17, 61.59, 63.06, 67.17, 72.86, 78.78, 83.5, 85.97, 85.69, 82.75, 77.75, 71.8, 66.47, 62.86, 61.75, 63.39, 67.53, 73.47, 79.56, 84.56, 87.5, 87.86, 85.61, 80.78, 74.89, 68.58, 65.03, 61.46]
+
+Before removing duplicates, Local Maxima: [88.44, 90.0, 85.97, 87.86]
+Before removing duplicates, Local Maxima Args: [11, 24, 37, 51]
+After removing duplicates, Local Maxima: [88.44, 90.0, 85.97, 87.86]
+After removing duplicates, Local Maxima Args: [11, 24, 37, 51]
+Mean of maxima: 88.0675
+After removing outliers, Local Maxima: [88.44, 90.0, 85.97, 87.86]
+After removing outliers, Local Maxima Args: [11, 24, 37, 51]
+
+First local maxima = 88.44, Frame no. = yjf-00_3-011.png
+Third local maxima = 85.97, Frame no. = yjf-00_3-037.png
+Total frames in the Gait Video: 57
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+59.) Current Row id: yjf-00_4
+
+Smoothen Widths length: 57
+Smoothen Widths: [78.55, 78.55, 78.55, 78.55, 81.64, 84.64, 87.0, 88.33, 87.0, 83.16, 77.47, 71.3, 65.92, 62.36, 61.25, 63.11, 67.55, 73.61, 79.95, 85.22, 88.78, 89.67, 87.81, 83.45, 77.67, 71.75, 66.81, 63.95, 63.7, 66.45, 71.5, 77.67, 83.58, 88.11, 90.44, 89.97, 86.75, 81.58, 75.5, 69.53, 64.8, 62.14, 62.03, 64.28, 68.14, 72.75, 76.83, 79.47, 80.08, 78.42, 74.89, 70.22, 65.55, 61.27, 57.81, 55.94, 54.72]
+
+Before removing duplicates, Local Maxima: [88.33, 89.67, 90.44, 80.08]
+Before removing duplicates, Local Maxima Args: [8, 22, 35, 49]
+After removing duplicates, Local Maxima: [88.33, 89.67, 90.44, 80.08]
+After removing duplicates, Local Maxima Args: [8, 22, 35, 49]
+Mean of maxima: 87.13
+After removing outliers, Local Maxima: [88.33, 89.67, 90.44, 80.08]
+After removing outliers, Local Maxima Args: [8, 22, 35, 49]
+
+First local maxima = 88.33, Frame no. = yjf-00_4-008.png
+Third local maxima = 90.44, Frame no. = yjf-00_4-035.png
+Total frames in the Gait Video: 57
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+60.) Current Row id: zc-00_1
+
+Smoothen Widths length: 43
+Smoothen Widths: [74.08, 74.08, 74.08, 74.08, 73.3, 73.8, 75.89, 79.58, 85.86, 93.14, 99.75, 104.33, 106.0, 104.42, 99.78, 93.11, 86.03, 80.06, 76.56, 76.22, 78.89, 84.25, 90.97, 97.28, 101.67, 103.19, 101.61, 97.0, 90.22, 82.8, 76.33, 72.11, 71.03, 73.03, 77.8, 84.36, 91.0, 96.28, 99.08, 99.97, 98.71, 97.68, 95.77]
+
+Before removing duplicates, Local Maxima: [74.08, 106.0, 103.19, 99.97]
+Before removing duplicates, Local Maxima Args: [4, 13, 26, 40]
+After removing duplicates, Local Maxima: [74.08, 106.0, 103.19, 99.97]
+After removing duplicates, Local Maxima Args: [4, 13, 26, 40]
+Mean of maxima: 95.81
+After removing outliers, Local Maxima: [106.0, 103.19, 99.97]
+After removing outliers, Local Maxima Args: [13, 26, 40]
+
+First local maxima = 106.0, Frame no. = zc-00_1-013.png
+Third local maxima = 99.97, Frame no. = zc-00_1-040.png
+Total frames in the Gait Video: 43
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+61.) Current Row id: zc-00_2
+
+Smoothen Widths length: 50
+Smoothen Widths: [66.42, 66.42, 66.42, 66.42, 66.92, 68.84, 72.17, 76.95, 83.78, 91.14, 97.56, 101.97, 104.39, 104.39, 101.72, 96.86, 90.64, 84.28, 77.78, 72.25, 68.92, 68.45, 70.84, 75.45, 82.28, 90.17, 97.58, 103.31, 106.56, 107.0, 104.64, 99.78, 93.14, 85.89, 79.36, 74.89, 72.47, 72.83, 76.22, 82.14, 89.47, 96.55, 103.39, 108.64, 111.42, 111.28, 109.26, 106.1, 104.01, 101.27]
+
+Before removing duplicates, Local Maxima: [104.39, 104.39, 107.0, 111.42]
+Before removing duplicates, Local Maxima Args: [13, 14, 30, 45]
+After removing duplicates, Local Maxima: [104.39, 107.0, 111.42]
+After removing duplicates, Local Maxima Args: [14, 30, 45]
+
+First local maxima = 104.39, Frame no. = zc-00_2-014.png
+Third local maxima = 111.42, Frame no. = zc-00_2-045.png
+Total frames in the Gait Video: 50
+Total frames in one Gait Cycle: 32
+
+----------------------------------------------------
+
+62.) Current Row id: zc-00_3
+
+Smoothen Widths length: 44
+Smoothen Widths: [97.7, 97.7, 97.7, 97.7, 99.33, 100.17, 99.81, 97.92, 93.53, 87.47, 81.33, 76.53, 74.05, 74.67, 78.05, 83.83, 90.72, 97.06, 101.53, 103.22, 101.94, 97.86, 91.81, 85.17, 79.45, 75.92, 75.31, 77.53, 82.08, 88.17, 94.25, 98.81, 100.83, 99.94, 96.42, 90.78, 84.14, 77.97, 73.58, 72.0, 72.49, 74.96, 76.59, 79.16]
+
+Before removing duplicates, Local Maxima: [100.17, 103.22, 100.83, 79.16]
+Before removing duplicates, Local Maxima Args: [6, 20, 33, 44]
+After removing duplicates, Local Maxima: [100.17, 103.22, 100.83, 79.16]
+After removing duplicates, Local Maxima Args: [6, 20, 33, 44]
+Mean of maxima: 95.845
+After removing outliers, Local Maxima: [100.17, 103.22, 100.83]
+After removing outliers, Local Maxima Args: [6, 20, 33]
+
+First local maxima = 100.17, Frame no. = zc-00_3-006.png
+Third local maxima = 100.83, Frame no. = zc-00_3-033.png
+Total frames in the Gait Video: 44
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+63.) Current Row id: zc-00_4
+
+Smoothen Widths length: 50
+Smoothen Widths: [104.03, 104.03, 104.03, 104.03, 104.08, 103.03, 100.5, 96.53, 90.58, 84.14, 78.67, 75.39, 75.09, 77.73, 83.11, 89.86, 96.22, 100.75, 102.58, 101.36, 97.05, 90.75, 83.81, 77.86, 74.06, 73.25, 75.61, 80.47, 87.05, 93.53, 98.44, 100.75, 100.11, 96.67, 90.83, 84.22, 78.53, 75.09, 74.45, 76.78, 81.83, 88.45, 94.83, 99.42, 101.31, 100.03, 96.51, 91.05, 87.76, 83.91]
+
+Before removing duplicates, Local Maxima: [104.08, 102.58, 100.75, 101.31]
+Before removing duplicates, Local Maxima Args: [5, 19, 32, 45]
+After removing duplicates, Local Maxima: [104.08, 102.58, 100.75, 101.31]
+After removing duplicates, Local Maxima Args: [5, 19, 32, 45]
+Mean of maxima: 102.17999999999999
+After removing outliers, Local Maxima: [104.08, 102.58, 100.75, 101.31]
+After removing outliers, Local Maxima Args: [5, 19, 32, 45]
+
+First local maxima = 104.08, Frame no. = zc-00_4-005.png
+Third local maxima = 100.75, Frame no. = zc-00_4-032.png
+Total frames in the Gait Video: 50
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+64.) Current Row id: zdx-00_1
+
+Smoothen Widths length: 50
+Smoothen Widths: [56.31, 56.31, 56.31, 56.31, 57.45, 59.92, 63.7, 68.64, 74.56, 80.45, 85.42, 89.11, 91.56, 93.06, 94.56, 96.58, 99.75, 104.36, 108.95, 113.25, 116.47, 117.83, 116.39, 111.39, 105.42, 98.14, 89.89, 81.42, 74.0, 68.89, 65.58, 65.0, 67.25, 71.95, 77.95, 83.81, 88.31, 90.47, 89.83, 86.42, 80.81, 74.17, 67.83, 62.89, 60.2, 60.03, 62.04, 65.78, 68.0, 70.7]
+
+Before removing duplicates, Local Maxima: [117.83, 90.47, 70.7]
+Before removing duplicates, Local Maxima Args: [22, 38, 50]
+After removing duplicates, Local Maxima: [117.83, 90.47, 70.7]
+After removing duplicates, Local Maxima Args: [22, 38, 50]
+
+First local maxima = 117.83, Frame no. = zdx-00_1-022.png
+Third local maxima = 70.7, Frame no. = zdx-00_1-050.png
+Total frames in the Gait Video: 50
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+65.) Current Row id: zdx-00_2
+
+Smoothen Widths length: 56
+Smoothen Widths: [70.8, 70.8, 70.8, 70.8, 75.08, 80.14, 85.3, 89.97, 92.22, 91.67, 88.22, 82.64, 76.19, 70.22, 65.83, 64.0, 65.28, 69.36, 75.14, 81.25, 86.31, 89.28, 89.39, 86.56, 81.47, 75.28, 69.45, 65.08, 63.19, 64.28, 68.14, 74.0, 80.53, 86.42, 90.7, 92.5, 91.42, 87.72, 82.17, 76.06, 70.56, 66.86, 65.83, 67.47, 71.41, 76.58, 81.61, 85.25, 86.61, 85.39, 81.67, 76.2, 69.97, 63.6, 60.03, 56.66]
+
+Before removing duplicates, Local Maxima: [92.22, 89.39, 92.5, 86.61]
+Before removing duplicates, Local Maxima Args: [9, 23, 36, 49]
+After removing duplicates, Local Maxima: [92.22, 89.39, 92.5, 86.61]
+After removing duplicates, Local Maxima Args: [9, 23, 36, 49]
+Mean of maxima: 90.18
+After removing outliers, Local Maxima: [92.22, 89.39, 92.5, 86.61]
+After removing outliers, Local Maxima Args: [9, 23, 36, 49]
+
+First local maxima = 92.22, Frame no. = zdx-00_2-009.png
+Third local maxima = 92.5, Frame no. = zdx-00_2-036.png
+Total frames in the Gait Video: 56
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+66.) Current Row id: zdx-00_3
+
+Smoothen Widths length: 56
+Smoothen Widths: [62.06, 62.06, 62.06, 62.06, 62.08, 63.14, 65.47, 68.8, 73.45, 77.59, 80.83, 82.31, 81.31, 77.97, 72.67, 67.83, 63.22, 59.92, 59.03, 60.95, 65.5, 71.22, 77.61, 83.47, 87.5, 89.0, 87.75, 83.97, 78.44, 72.36, 67.11, 63.8, 63.11, 65.14, 69.58, 75.33, 81.03, 85.39, 87.64, 87.42, 84.53, 79.56, 73.42, 67.39, 62.5, 59.58, 59.25, 61.31, 65.22, 69.78, 73.78, 76.25, 77.21, 76.64, 76.1, 74.83]
+
+Before removing duplicates, Local Maxima: [82.31, 89.0, 87.64, 77.21]
+Before removing duplicates, Local Maxima Args: [12, 26, 39, 53]
+After removing duplicates, Local Maxima: [82.31, 89.0, 87.64, 77.21]
+After removing duplicates, Local Maxima Args: [12, 26, 39, 53]
+Mean of maxima: 84.03999999999999
+After removing outliers, Local Maxima: [82.31, 89.0, 87.64, 77.21]
+After removing outliers, Local Maxima Args: [12, 26, 39, 53]
+
+First local maxima = 82.31, Frame no. = zdx-00_3-012.png
+Third local maxima = 87.64, Frame no. = zdx-00_3-039.png
+Total frames in the Gait Video: 56
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+67.) Current Row id: zdx-00_4
+
+Smoothen Widths length: 49
+Smoothen Widths: [56.64, 56.64, 56.64, 56.64, 57.75, 60.14, 63.97, 69.03, 75.11, 80.75, 84.75, 86.42, 85.39, 81.78, 76.39, 70.56, 65.64, 62.72, 62.36, 64.86, 69.83, 76.36, 83.03, 88.28, 91.47, 91.95, 89.45, 84.45, 78.0, 71.94, 67.14, 64.64, 65.08, 68.19, 73.33, 78.95, 83.69, 86.53, 86.72, 84.19, 79.47, 73.39, 67.3, 62.47, 59.86, 59.36, 60.72, 61.67, 63.62]
+
+Before removing duplicates, Local Maxima: [86.42, 91.95, 86.72, 63.62]
+Before removing duplicates, Local Maxima Args: [12, 26, 39, 49]
+After removing duplicates, Local Maxima: [86.42, 91.95, 86.72, 63.62]
+After removing duplicates, Local Maxima Args: [12, 26, 39, 49]
+Mean of maxima: 82.17750000000001
+After removing outliers, Local Maxima: [86.42, 91.95, 86.72]
+After removing outliers, Local Maxima Args: [12, 26, 39]
+
+First local maxima = 86.42, Frame no. = zdx-00_4-012.png
+Third local maxima = 86.72, Frame no. = zdx-00_4-039.png
+Total frames in the Gait Video: 49
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+68.) Current Row id: zjg-00_1
+
+Smoothen Widths length: 76
+Smoothen Widths: [77.33, 77.33, 77.33, 77.33, 77.7, 77.22, 75.72, 73.22, 68.86, 64.06, 59.92, 57.33, 56.92, 58.86, 63.11, 69.06, 74.67, 79.61, 81.92, 81.94, 79.28, 74.05, 68.64, 62.33, 58.3, 55.7, 55.5, 58.0, 61.11, 65.58, 69.94, 73.83, 76.03, 75.44, 74.3, 71.89, 67.55, 62.22, 57.11, 53.44, 50.47, 48.25, 46.94, 46.55, 46.17, 45.72, 44.61, 43.56, 43.97, 45.42, 47.92, 50.94, 54.5, 58.0, 59.61, 59.31, 58.06, 56.75, 55.34, 54.34, 55.42, 58.25, 60.95, 63.14, 64.86, 66.2, 64.59, 61.56, 58.83, 55.44, 52.44, 48.66, 46.73, 45.05, 43.9, 43.29]
+
+Before removing duplicates, Local Maxima: [77.7, 81.94, 76.03, 59.61, 66.2]
+Before removing duplicates, Local Maxima Args: [5, 20, 33, 55, 66]
+After removing duplicates, Local Maxima: [77.7, 81.94, 76.03, 59.61, 66.2]
+After removing duplicates, Local Maxima Args: [5, 20, 33, 55, 66]
+Mean of maxima: 72.29599999999999
+After removing outliers, Local Maxima: [77.7, 81.94, 76.03, 66.2]
+After removing outliers, Local Maxima Args: [5, 20, 33, 66]
+
+First local maxima = 77.7, Frame no. = zjg-00_1-005.png
+Third local maxima = 76.03, Frame no. = zjg-00_1-033.png
+Total frames in the Gait Video: 76
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+69.) Current Row id: zjg-00_2
+
+Smoothen Widths length: 66
+Smoothen Widths: [53.02, 53.02, 53.02, 53.02, 54.33, 55.64, 56.95, 58.06, 58.44, 57.0, 55.84, 54.95, 53.92, 52.95, 51.31, 50.67, 50.17, 49.7, 49.45, 49.36, 51.22, 53.0, 54.14, 55.45, 57.25, 59.0, 58.19, 58.11, 59.03, 58.5, 56.83, 55.42, 55.67, 55.5, 54.89, 55.75, 58.47, 62.08, 66.14, 70.22, 74.3, 77.64, 78.53, 77.14, 73.39, 68.36, 62.72, 57.28, 53.5, 51.78, 53.22, 57.05, 62.33, 68.28, 73.67, 77.69, 79.39, 78.8, 76.22, 72.3, 68.05, 64.33, 61.2, 59.06, 58.04, 57.59]
+
+Before removing duplicates, Local Maxima: [58.44, 59.0, 59.03, 55.67, 78.53, 79.39]
+Before removing duplicates, Local Maxima Args: [9, 26, 29, 33, 43, 57]
+After removing duplicates, Local Maxima: [58.44, 59.0, 59.03, 55.67, 78.53, 79.39]
+After removing duplicates, Local Maxima Args: [9, 26, 29, 33, 43, 57]
+Mean of maxima: 65.00999999999999
+After removing outliers, Local Maxima: [58.44, 59.0, 59.03, 55.67, 78.53, 79.39]
+After removing outliers, Local Maxima Args: [9, 26, 29, 33, 43, 57]
+
+First local maxima = 58.44, Frame no. = zjg-00_2-009.png
+Third local maxima = 59.03, Frame no. = zjg-00_2-029.png
+Total frames in the Gait Video: 66
+Total frames in one Gait Cycle: 21
+
+----------------------------------------------------
+
+70.) Current Row id: zjg-00_3
+
+Smoothen Widths length: 63
+Smoothen Widths: [48.27, 48.27, 48.27, 48.27, 49.05, 50.69, 53.22, 56.89, 62.25, 67.53, 72.0, 75.05, 76.39, 75.53, 72.53, 68.22, 63.5, 59.47, 57.0, 56.64, 58.42, 62.11, 66.47, 71.17, 75.03, 77.22, 77.36, 75.14, 72.25, 67.86, 63.06, 59.06, 56.78, 56.86, 58.78, 62.97, 67.33, 70.72, 72.25, 71.36, 68.05, 62.25, 56.8, 52.19, 48.91, 47.22, 46.8, 48.17, 50.3, 52.5, 54.64, 56.31, 57.72, 58.31, 57.5, 56.42, 54.61, 52.95, 51.14, 49.43, 48.26, 47.51, 47.19]
+
+Before removing duplicates, Local Maxima: [76.39, 77.36, 72.25, 58.31]
+Before removing duplicates, Local Maxima Args: [13, 27, 39, 54]
+After removing duplicates, Local Maxima: [76.39, 77.36, 72.25, 58.31]
+After removing duplicates, Local Maxima Args: [13, 27, 39, 54]
+Mean of maxima: 71.0775
+After removing outliers, Local Maxima: [76.39, 77.36, 72.25]
+After removing outliers, Local Maxima Args: [13, 27, 39]
+
+First local maxima = 76.39, Frame no. = zjg-00_3-013.png
+Third local maxima = 72.25, Frame no. = zjg-00_3-039.png
+Total frames in the Gait Video: 63
+Total frames in one Gait Cycle: 27
+
+----------------------------------------------------
+
+71.) Current Row id: zjg-00_4
+
+Smoothen Widths length: 70
+Smoothen Widths: [57.81, 57.81, 57.81, 57.81, 59.34, 61.44, 63.95, 66.47, 67.8, 67.69, 66.92, 64.64, 61.5, 58.33, 56.11, 55.28, 55.0, 55.61, 56.47, 56.89, 56.22, 54.42, 52.58, 50.75, 49.03, 47.81, 47.53, 47.53, 48.2, 49.45, 52.14, 56.0, 60.33, 65.97, 71.14, 75.2, 77.14, 76.81, 74.56, 70.34, 65.47, 61.86, 59.67, 59.61, 61.94, 66.33, 72.11, 77.53, 82.03, 84.72, 85.17, 83.47, 79.72, 74.86, 69.8, 65.33, 62.22, 60.7, 61.31, 63.64, 67.22, 71.47, 75.34, 78.22, 79.06, 77.86, 75.28, 71.46, 69.22, 66.4]
+
+Before removing duplicates, Local Maxima: [67.8, 56.89, 77.14, 85.17, 79.06]
+Before removing duplicates, Local Maxima Args: [9, 20, 37, 51, 65]
+After removing duplicates, Local Maxima: [67.8, 56.89, 77.14, 85.17, 79.06]
+After removing duplicates, Local Maxima Args: [9, 20, 37, 51, 65]
+Mean of maxima: 73.212
+After removing outliers, Local Maxima: [67.8, 77.14, 85.17, 79.06]
+After removing outliers, Local Maxima Args: [9, 37, 51, 65]
+
+First local maxima = 67.8, Frame no. = zjg-00_4-009.png
+Third local maxima = 85.17, Frame no. = zjg-00_4-051.png
+Total frames in the Gait Video: 70
+Total frames in one Gait Cycle: 43
+
+----------------------------------------------------
+
+72.) Current Row id: zyf-00_1
+
+Smoothen Widths length: 51
+Smoothen Widths: [62.27, 62.27, 62.27, 62.27, 60.25, 58.5, 57.61, 58.03, 60.8, 65.61, 71.97, 78.55, 84.17, 87.81, 88.92, 87.33, 83.25, 77.61, 71.53, 66.33, 63.05, 62.45, 64.42, 68.61, 74.14, 79.47, 83.47, 85.25, 84.5, 81.28, 76.17, 70.36, 65.11, 61.53, 60.42, 61.97, 65.95, 71.61, 77.58, 82.58, 85.64, 86.25, 84.3, 80.08, 74.52, 68.83, 64.25, 60.78, 58.85, 57.85, 57.81]
+
+Before removing duplicates, Local Maxima: [62.27, 88.92, 85.25, 86.25]
+Before removing duplicates, Local Maxima Args: [4, 15, 28, 42]
+After removing duplicates, Local Maxima: [62.27, 88.92, 85.25, 86.25]
+After removing duplicates, Local Maxima Args: [4, 15, 28, 42]
+Mean of maxima: 80.6725
+After removing outliers, Local Maxima: [88.92, 85.25, 86.25]
+After removing outliers, Local Maxima Args: [15, 28, 42]
+
+First local maxima = 88.92, Frame no. = zyf-00_1-015.png
+Third local maxima = 86.25, Frame no. = zyf-00_1-042.png
+Total frames in the Gait Video: 51
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+73.) Current Row id: zyf-00_2
+
+Smoothen Widths length: 58
+Smoothen Widths: [68.86, 68.86, 68.86, 68.86, 71.78, 75.03, 78.0, 80.22, 80.34, 78.31, 74.39, 69.36, 64.53, 61.0, 59.5, 60.42, 63.61, 68.44, 73.83, 78.58, 81.66, 82.64, 81.3, 78.14, 73.53, 68.58, 64.55, 62.2, 62.14, 64.45, 69.03, 74.89, 80.72, 85.36, 87.92, 87.97, 85.36, 80.64, 74.78, 68.95, 64.28, 61.45, 61.0, 62.86, 66.39, 70.61, 74.28, 76.64, 77.17, 75.64, 72.3, 67.94, 63.61, 60.17, 57.52, 56.1, 55.45, 55.52]
+
+Before removing duplicates, Local Maxima: [80.34, 82.64, 87.97, 77.17, 55.52]
+Before removing duplicates, Local Maxima Args: [9, 22, 36, 49, 58]
+After removing duplicates, Local Maxima: [80.34, 82.64, 87.97, 77.17, 55.52]
+After removing duplicates, Local Maxima Args: [9, 22, 36, 49, 58]
+Mean of maxima: 76.728
+After removing outliers, Local Maxima: [80.34, 82.64, 87.97, 77.17]
+After removing outliers, Local Maxima Args: [9, 22, 36, 49]
+
+First local maxima = 80.34, Frame no. = zyf-00_2-009.png
+Third local maxima = 87.97, Frame no. = zyf-00_2-036.png
+Total frames in the Gait Video: 58
+Total frames in one Gait Cycle: 28
+
+----------------------------------------------------
+
+74.) Current Row id: zyf-00_3
+
+Smoothen Widths length: 66
+Smoothen Widths: [74.86, 74.86, 74.86, 74.86, 77.42, 80.06, 82.42, 84.14, 83.75, 81.17, 77.03, 71.89, 66.59, 62.11, 59.39, 59.03, 60.81, 64.42, 69.0, 73.3, 76.28, 77.11, 75.78, 72.55, 68.03, 63.25, 59.44, 57.61, 58.11, 60.83, 65.55, 71.55, 77.47, 82.17, 85.0, 85.58, 83.64, 79.53, 74.11, 68.47, 63.7, 60.72, 60.28, 62.25, 66.28, 71.44, 76.47, 80.19, 81.83, 81.17, 78.3, 73.83, 68.58, 63.72, 60.17, 58.61, 59.2, 61.58, 65.36, 69.45, 72.72, 74.31, 74.51, 73.37, 72.55, 71.02]
+
+Before removing duplicates, Local Maxima: [84.14, 77.11, 85.58, 81.83, 74.51]
+Before removing duplicates, Local Maxima Args: [8, 22, 36, 49, 63]
+After removing duplicates, Local Maxima: [84.14, 77.11, 85.58, 81.83, 74.51]
+After removing duplicates, Local Maxima Args: [8, 22, 36, 49, 63]
+Mean of maxima: 80.63399999999999
+After removing outliers, Local Maxima: [84.14, 77.11, 85.58, 81.83, 74.51]
+After removing outliers, Local Maxima Args: [8, 22, 36, 49, 63]
+
+First local maxima = 84.14, Frame no. = zyf-00_3-008.png
+Third local maxima = 85.58, Frame no. = zyf-00_3-036.png
+Total frames in the Gait Video: 66
+Total frames in one Gait Cycle: 29
+
+----------------------------------------------------
+
+75.) Current Row id: zyf-00_4
+
+Smoothen Widths length: 61
+Smoothen Widths: [58.33, 58.33, 58.33, 58.33, 61.55, 65.92, 71.0, 76.3, 80.3, 82.28, 81.94, 79.22, 74.69, 69.25, 64.33, 60.97, 59.8, 61.22, 65.05, 70.66, 76.69, 81.86, 85.28, 86.39, 84.97, 81.2, 75.83, 69.94, 64.72, 61.11, 59.64, 60.58, 63.78, 68.55, 73.58, 77.67, 80.2, 80.75, 79.11, 75.5, 70.8, 66.03, 62.0, 59.53, 59.19, 61.22, 65.19, 70.5, 76.14, 80.89, 84.0, 85.0, 83.89, 80.8, 76.45, 71.72, 67.28, 63.51, 60.73, 59.28, 58.31]
+
+Before removing duplicates, Local Maxima: [82.28, 86.39, 80.75, 85.0]
+Before removing duplicates, Local Maxima Args: [10, 24, 38, 52]
+After removing duplicates, Local Maxima: [82.28, 86.39, 80.75, 85.0]
+After removing duplicates, Local Maxima Args: [10, 24, 38, 52]
+Mean of maxima: 83.605
+After removing outliers, Local Maxima: [82.28, 86.39, 80.75, 85.0]
+After removing outliers, Local Maxima Args: [10, 24, 38, 52]
+
+First local maxima = 82.28, Frame no. = zyf-00_4-010.png
+Third local maxima = 80.75, Frame no. = zyf-00_4-038.png
+Total frames in the Gait Video: 61
+Total frames in one Gait Cycle: 29
