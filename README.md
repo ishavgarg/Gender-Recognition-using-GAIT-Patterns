@@ -15,6 +15,6 @@ recent years.
 
 ## Project Timeline ⌛
 
-![timeline](./images/Timeline.jpg)
+![timeline](./screenshots/Timeline.jpg)
 
 ## Make sure to star the repo if found useful. ⭐
